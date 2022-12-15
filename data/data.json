@@ -1,0 +1,2270 @@
+[
+  {
+    "id": "licorice",
+    "category": "harmful",
+    "name": {
+      "en": "licorice",
+      "hu": "édesgyökér"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "baked-beans",
+    "category": "harmful",
+    "name": {
+      "en": "baked beans",
+      "hu": "sült bab"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "crisps",
+    "category": "harmful",
+    "name": {
+      "en": "crisps",
+      "hu": "chips"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "gravy",
+    "category": "harmful",
+    "name": {
+      "en": "gravy",
+      "hu": "mártás"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "caramel",
+    "category": "harmful",
+    "name": {
+      "en": "caramel",
+      "hu": "karamell"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "coke-zero",
+    "category": "harmful",
+    "name": {
+      "en": "coke zero",
+      "hu": "coke zero"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "coke",
+    "category": "harmful",
+    "name": {
+      "en": "coke",
+      "hu": "koksz"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "jelly",
+    "category": "harmful",
+    "name": {
+      "en": "jelly",
+      "hu": "zselé"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "jam",
+    "category": "harmful",
+    "name": {
+      "en": "jam",
+      "hu": "lekvár"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "poppy-seed",
+    "category": "harmful",
+    "name": {
+      "en": "poppy seed",
+      "hu": "mák"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "marshmallow",
+    "category": "harmful",
+    "name": {
+      "en": "marshmallow",
+      "hu": "mályvacukor"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "cotton-candy",
+    "category": "harmful",
+    "name": {
+      "en": "cotton candy",
+      "hu": "vattacukor"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "pomegranate",
+    "category": "harmful",
+    "name": {
+      "en": "pomegranate",
+      "hu": "gránátalma"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "yeast-dough",
+    "category": "harmful",
+    "name": {
+      "en": "yeast dough",
+      "hu": "élesztős tészta"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "nutella",
+    "category": "harmful",
+    "name": {
+      "en": "nutella",
+      "hu": "nutella"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "coca-cola",
+    "category": "harmful",
+    "name": {
+      "en": "coca cola",
+      "hu": "Coca Cola"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "cola",
+    "category": "harmful",
+    "name": {
+      "en": "cola",
+      "hu": "cola"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "light-cola",
+    "category": "harmful",
+    "name": {
+      "en": "light cola",
+      "hu": "light kóla"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "pepsi",
+    "category": "harmful",
+    "name": {
+      "en": "pepsi",
+      "hu": "pepsi"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "sprite",
+    "category": "harmful",
+    "name": {
+      "en": "sprite",
+      "hu": "sprite"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "soda",
+    "category": "harmful",
+    "name": {
+      "en": "soda",
+      "hu": "szóda"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "jalapeno",
+    "category": "harmful",
+    "name": {
+      "en": "jalapeno",
+      "hu": "jalapeno"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "sugar",
+    "category": "harmful",
+    "name": {
+      "en": "sugar",
+      "hu": "cukor"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "chilli",
+    "category": "harmful",
+    "name": {
+      "en": "chilli",
+      "hu": "chili"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "scallion",
+    "category": "harmful",
+    "name": {
+      "en": "scallion",
+      "hu": "mogyoróhagyma"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "chilli-pepper",
+    "category": "harmful",
+    "name": {
+      "en": "chilli pepper",
+      "hu": "chilipaprika"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "chili",
+    "category": "harmful",
+    "name": {
+      "en": "chili",
+      "hu": "chili"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "french-fries",
+    "category": "harmful",
+    "name": {
+      "en": "french fries",
+      "hu": "sült krumpli"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "chips",
+    "category": "harmful",
+    "name": {
+      "en": "chips",
+      "hu": "chipek"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "fries",
+    "category": "harmful",
+    "name": {
+      "en": "fries",
+      "hu": "sült krumpli"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "potato-chips",
+    "category": "harmful",
+    "name": {
+      "en": "potato chips",
+      "hu": "burgonya chips"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "jagermeister",
+    "category": "harmful",
+    "name": {
+      "en": "jagermeister",
+      "hu": "jagermeister"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "whisky",
+    "category": "harmful",
+    "name": {
+      "en": "whisky",
+      "hu": "whisky"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "avocado",
+    "category": "harmful",
+    "name": {
+      "en": "avocado",
+      "hu": "avokádó"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "avocado's",
+    "category": "harmful",
+    "name": {
+      "en": "avocado's",
+      "hu": "avokádó"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "avocadoe",
+    "category": "harmful",
+    "name": {
+      "en": "avocadoe",
+      "hu": "avocadoe"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "oreo",
+    "category": "harmful",
+    "name": {
+      "en": "oreo",
+      "hu": "oreo"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "apple-cider",
+    "category": "harmful",
+    "name": {
+      "en": "apple cider",
+      "hu": "almabor"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "pepper",
+    "category": "harmful",
+    "name": {
+      "en": "pepper",
+      "hu": "bors"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "leek",
+    "category": "harmful",
+    "name": {
+      "en": "leek",
+      "hu": "póréhagyma"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "brisket",
+    "category": "harmful",
+    "name": {
+      "en": "brisket",
+      "hu": "szegyszegy"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "bbq",
+    "category": "harmful",
+    "name": {
+      "en": "bbq",
+      "hu": "bbq"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "mustard",
+    "category": "harmful",
+    "name": {
+      "en": "mustard",
+      "hu": "mustár"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "pickles",
+    "category": "moderate",
+    "name": {
+      "en": "pickles",
+      "hu": "savanyúságok"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "squash",
+    "category": "moderate",
+    "name": {
+      "en": "squash",
+      "hu": "squash"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "pistachio",
+    "category": "moderate",
+    "name": {
+      "en": "pistachio",
+      "hu": "pisztácia"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "lemon",
+    "category": "harmful",
+    "name": {
+      "en": "lemon",
+      "hu": "citrom"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "lime",
+    "category": "harmful",
+    "name": {
+      "en": "lime",
+      "hu": "lime"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "garlic-clove",
+    "category": "harmful",
+    "name": {
+      "en": "garlic clove",
+      "hu": "fokhagymagerezd"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "rhubarb",
+    "category": "harmful",
+    "name": {
+      "en": "rhubarb",
+      "hu": "rebarbara"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "wildmushroom",
+    "category": "harmful",
+    "name": {
+      "en": "wildmushroom",
+      "hu": "vadgomba"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "wild-mushrooms",
+    "category": "harmful",
+    "name": {
+      "en": "wild mushrooms",
+      "hu": "erdei gombák"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "grape",
+    "category": "harmful",
+    "name": {
+      "en": "grape",
+      "hu": "szőlő"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "mushroom",
+    "category": "harmful",
+    "name": {
+      "en": "mushroom",
+      "hu": "gomba"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "raisin",
+    "category": "harmful",
+    "name": {
+      "en": "raisin",
+      "hu": "mazsola"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "macadamia-nut",
+    "category": "harmful",
+    "name": {
+      "en": "macadamia nut",
+      "hu": "makadámiadió"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "coffee",
+    "category": "harmful",
+    "name": {
+      "en": "coffee",
+      "hu": "kávé"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "cappuccino",
+    "category": "harmful",
+    "name": {
+      "en": "cappuccino",
+      "hu": "cappuccino"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "decaf-coffee",
+    "category": "harmful",
+    "name": {
+      "en": "decaf coffee",
+      "hu": "koffeinmentes kávé"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "latte",
+    "category": "harmful",
+    "name": {
+      "en": "latte",
+      "hu": "latte"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "tea",
+    "category": "harmful",
+    "name": {
+      "en": "tea",
+      "hu": "tea"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "nutmeg",
+    "category": "harmful",
+    "name": {
+      "en": "nutmeg",
+      "hu": "szerecsendió"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "yeast",
+    "category": "harmful",
+    "name": {
+      "en": "yeast",
+      "hu": "élesztő"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "ice-cream",
+    "category": "harmful",
+    "name": {
+      "en": "ice cream",
+      "hu": "jégkrém"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "garlic-powder",
+    "category": "harmful",
+    "name": {
+      "en": "garlic powder",
+      "hu": "fokhagymapor"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "mozzarella",
+    "category": "moderate",
+    "name": {
+      "en": "mozzarella",
+      "hu": "mozzarella"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "tofu",
+    "category": "moderate",
+    "name": {
+      "en": "tofu",
+      "hu": "tofu"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "salad",
+    "category": "moderate",
+    "name": {
+      "en": "salad",
+      "hu": "saláta"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "corn-flakes",
+    "category": "moderate",
+    "name": {
+      "en": "corn flakes",
+      "hu": "kukoricapehely"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "cherry",
+    "category": "moderate",
+    "name": {
+      "en": "cherry",
+      "hu": "cseresznye"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "cherries",
+    "category": "moderate",
+    "name": {
+      "en": "cherries",
+      "hu": "cseresznye"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "flour",
+    "category": "moderate",
+    "name": {
+      "en": "flour",
+      "hu": "liszt"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "butter",
+    "category": "moderate",
+    "name": {
+      "en": "butter",
+      "hu": "vaj"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "honey",
+    "category": "moderate",
+    "name": {
+      "en": "honey",
+      "hu": "méz"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "almonds",
+    "category": "moderate",
+    "name": {
+      "en": "almonds",
+      "hu": "mandula"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "cashew",
+    "category": "moderate",
+    "name": {
+      "en": "cashew",
+      "hu": "kesudió"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "salt",
+    "category": "moderate",
+    "name": {
+      "en": "salt",
+      "hu": "só"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "coconut",
+    "category": "moderate",
+    "name": {
+      "en": "coconut",
+      "hu": "kókuszdió"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "raspberry",
+    "category": "moderate",
+    "name": {
+      "en": "raspberry",
+      "hu": "málna"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "raspberries",
+    "category": "moderate",
+    "name": {
+      "en": "raspberries",
+      "hu": "málna"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "venison",
+    "category": "good",
+    "name": {
+      "en": "venison",
+      "hu": "szarvas"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "steak",
+    "category": "good",
+    "name": {
+      "en": "steak",
+      "hu": "steak"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "lentil",
+    "category": "good",
+    "name": {
+      "en": "lentil",
+      "hu": "lencse"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "soy-milk",
+    "category": "good",
+    "name": {
+      "en": "soy milk",
+      "hu": "szójatej"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "capsicum",
+    "category": "good",
+    "name": {
+      "en": "capsicum",
+      "hu": "paprika"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "papaya",
+    "category": "good",
+    "name": {
+      "en": "papaya",
+      "hu": "papaya"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "guava",
+    "category": "good",
+    "name": {
+      "en": "guava",
+      "hu": "guava"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "water",
+    "category": "good",
+    "name": {
+      "en": "water",
+      "hu": "víz"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "dog-food",
+    "category": "good",
+    "name": {
+      "en": "dog food",
+      "hu": "kutyaeledel"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "soya",
+    "category": "good",
+    "name": {
+      "en": "soya",
+      "hu": "szója"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "kale",
+    "category": "good",
+    "name": {
+      "en": "kale",
+      "hu": "kelkáposzta"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "thyme",
+    "category": "moderate",
+    "name": {
+      "en": "thyme",
+      "hu": "kakukkfű"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "buckwheat",
+    "category": "good",
+    "name": {
+      "en": "buckwheat",
+      "hu": "hajdina"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "lamb",
+    "category": "good",
+    "name": {
+      "en": "lamb",
+      "hu": "bárány"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "vinegar",
+    "category": "good",
+    "name": {
+      "en": "vinegar",
+      "hu": "ecet"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "chickpea",
+    "category": "good",
+    "name": {
+      "en": "chickpea",
+      "hu": "csicseriborsó"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "fig",
+    "category": "good",
+    "name": {
+      "en": "fig",
+      "hu": "fig"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "parsnip",
+    "category": "good",
+    "name": {
+      "en": "parsnip",
+      "hu": "paszternák"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "eggplant",
+    "category": "good",
+    "name": {
+      "en": "eggplant",
+      "hu": "padlizsán"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "black-beans",
+    "category": "good",
+    "name": {
+      "en": "black beans",
+      "hu": "fekete bab"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "bean",
+    "category": "good",
+    "name": {
+      "en": "bean",
+      "hu": "bab"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "ginger",
+    "category": "good",
+    "name": {
+      "en": "ginger",
+      "hu": "gyömbér"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "beet",
+    "category": "good",
+    "name": {
+      "en": "beet",
+      "hu": "répa"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "artichoke",
+    "category": "good",
+    "name": {
+      "en": "artichoke",
+      "hu": "articsóka"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "iceberg-lettuce",
+    "category": "good",
+    "name": {
+      "en": "iceberg lettuce",
+      "hu": "jégsaláta"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "olive",
+    "category": "good",
+    "name": {
+      "en": "olive",
+      "hu": "olívaolaj"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "roll",
+    "category": "good",
+    "name": {
+      "en": "roll",
+      "hu": "roll"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "pretzel",
+    "category": "good",
+    "name": {
+      "en": "pretzel",
+      "hu": "perec"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "bacon",
+    "category": "good",
+    "name": {
+      "en": "bacon",
+      "hu": "bacon"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "pasta",
+    "category": "good",
+    "name": {
+      "en": "pasta",
+      "hu": "tészta"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "spaghetti",
+    "category": "good",
+    "name": {
+      "en": "spaghetti",
+      "hu": "spagetti"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "grain",
+    "category": "good",
+    "name": {
+      "en": "grain",
+      "hu": "gabona"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "wheat",
+    "category": "good",
+    "name": {
+      "en": "wheat",
+      "hu": "búza"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "quinoa",
+    "category": "good",
+    "name": {
+      "en": "quinoa",
+      "hu": "quinoa"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "peanut",
+    "category": "good",
+    "name": {
+      "en": "peanut",
+      "hu": "mogyoró"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "ham",
+    "category": "good",
+    "name": {
+      "en": "ham",
+      "hu": "sonka"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "turkey",
+    "category": "good",
+    "name": {
+      "en": "turkey",
+      "hu": "pulyka"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "cinamon",
+    "category": "good",
+    "name": {
+      "en": "cinamon",
+      "hu": "cinamon"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "cinnamon",
+    "category": "good",
+    "name": {
+      "en": "cinnamon",
+      "hu": "fahéj"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "beef",
+    "category": "good",
+    "name": {
+      "en": "beef",
+      "hu": "marhahús"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "pork",
+    "category": "good",
+    "name": {
+      "en": "pork",
+      "hu": "sertéshús"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "chicken",
+    "category": "good",
+    "name": {
+      "en": "chicken",
+      "hu": "csirke"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "oatmeal",
+    "category": "good",
+    "name": {
+      "en": "oatmeal",
+      "hu": "zabpehely"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "bread",
+    "category": "good",
+    "name": {
+      "en": "bread",
+      "hu": "kenyér"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "brown-bread",
+    "category": "good",
+    "name": {
+      "en": "brown bread",
+      "hu": "barna kenyér"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "sourdough",
+    "category": "good",
+    "name": {
+      "en": "sourdough",
+      "hu": "kovász"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "white-bread",
+    "category": "good",
+    "name": {
+      "en": "white bread",
+      "hu": "fehér kenyér"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "whole-grain-bread",
+    "category": "good",
+    "name": {
+      "en": "whole grain bread",
+      "hu": "teljes kiőrlésű kenyér"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "popcorn",
+    "category": "good",
+    "name": {
+      "en": "popcorn",
+      "hu": "popcorn"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "egg",
+    "category": "good",
+    "name": {
+      "en": "egg",
+      "hu": "tojás"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "nectarine",
+    "category": "good",
+    "name": {
+      "en": "nectarine",
+      "hu": "nektarin"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "tangerine",
+    "category": "good",
+    "name": {
+      "en": "tangerine",
+      "hu": "mandarin"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "plum",
+    "category": "good",
+    "name": {
+      "en": "plum",
+      "hu": "szilva"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "honeydew",
+    "category": "good",
+    "name": {
+      "en": "honeydew",
+      "hu": "mézharmat"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "dates",
+    "category": "good",
+    "name": {
+      "en": "dates",
+      "hu": "datolya"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "medjool",
+    "category": "good",
+    "name": {
+      "en": "medjool",
+      "hu": "medjool"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "kiwi",
+    "category": "good",
+    "name": {
+      "en": "kiwi",
+      "hu": "kiwi"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "blackberry",
+    "category": "good",
+    "name": {
+      "en": "blackberry",
+      "hu": "szeder"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "blackberries",
+    "category": "good",
+    "name": {
+      "en": "blackberries",
+      "hu": "szeder"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "potato",
+    "category": "good",
+    "name": {
+      "en": "potato",
+      "hu": "burgonya"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "potatoes",
+    "category": "good",
+    "name": {
+      "en": "potatoes",
+      "hu": "burgonya"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "zucchini",
+    "category": "good",
+    "name": {
+      "en": "zucchini",
+      "hu": "cukkini"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "sweet-potato",
+    "category": "good",
+    "name": {
+      "en": "sweet potato",
+      "hu": "édesburgonya"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "sweet-potatoes",
+    "category": "good",
+    "name": {
+      "en": "sweet potatoes",
+      "hu": "édesburgonya"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "pumpkin",
+    "category": "good",
+    "name": {
+      "en": "pumpkin",
+      "hu": "sütőtök"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "pea",
+    "category": "good",
+    "name": {
+      "en": "pea",
+      "hu": "borsó"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "lettuce",
+    "category": "good",
+    "name": {
+      "en": "lettuce",
+      "hu": "saláta"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "cucumber",
+    "category": "good",
+    "name": {
+      "en": "cucumber",
+      "hu": "uborka"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "celery",
+    "category": "good",
+    "name": {
+      "en": "celery",
+      "hu": "zeller"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "celeries",
+    "category": "good",
+    "name": {
+      "en": "celeries",
+      "hu": "celeries"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "carrot",
+    "category": "good",
+    "name": {
+      "en": "carrot",
+      "hu": "sárgarépa"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "brussels-sprouts",
+    "category": "good",
+    "name": {
+      "en": "brussels sprouts",
+      "hu": "kelbimbó"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "brussel-sprouts",
+    "category": "good",
+    "name": {
+      "en": "brussel sprouts",
+      "hu": "kelbimbó"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "brussels",
+    "category": "good",
+    "name": {
+      "en": "brussels",
+      "hu": "brüsszeli"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "green-bell-pepper",
+    "category": "good",
+    "name": {
+      "en": "green bell pepper",
+      "hu": "zöldpaprika"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "orange-bell-pepper",
+    "category": "good",
+    "name": {
+      "en": "orange bell pepper",
+      "hu": "narancssárga paprika"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "red-bell-pepper",
+    "category": "good",
+    "name": {
+      "en": "red bell pepper",
+      "hu": "piros paprika"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "bell-pepper",
+    "category": "good",
+    "name": {
+      "en": "bell pepper",
+      "hu": "paprika"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "asparagus",
+    "category": "good",
+    "name": {
+      "en": "asparagus",
+      "hu": "spárga"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "cabbage",
+    "category": "good",
+    "name": {
+      "en": "cabbage",
+      "hu": "káposzta"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "cauliflower",
+    "category": "good",
+    "name": {
+      "en": "cauliflower",
+      "hu": "karfiol"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "broccoli",
+    "category": "good",
+    "name": {
+      "en": "broccoli",
+      "hu": "brokkoli"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "corn",
+    "category": "good",
+    "name": {
+      "en": "corn",
+      "hu": "kukorica"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "watermelon",
+    "category": "good",
+    "name": {
+      "en": "watermelon",
+      "hu": "görögdinnye"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "pineapple",
+    "category": "good",
+    "name": {
+      "en": "pineapple",
+      "hu": "ananász"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "pear",
+    "category": "good",
+    "name": {
+      "en": "pear",
+      "hu": "körte"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "orange",
+    "category": "good",
+    "name": {
+      "en": "orange",
+      "hu": "narancs"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "mango",
+    "category": "good",
+    "name": {
+      "en": "mango",
+      "hu": "mangó"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "mangoes",
+    "category": "good",
+    "name": {
+      "en": "mangoes",
+      "hu": "mangó"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "cranberry",
+    "category": "good",
+    "name": {
+      "en": "cranberry",
+      "hu": "áfonya"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "cranberries",
+    "category": "good",
+    "name": {
+      "en": "cranberries",
+      "hu": "áfonya"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "cantaloupe",
+    "category": "good",
+    "name": {
+      "en": "cantaloupe",
+      "hu": "sárgadinnye"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "blueberry",
+    "category": "good",
+    "name": {
+      "en": "blueberry",
+      "hu": "áfonya"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "blueberries",
+    "category": "good",
+    "name": {
+      "en": "blueberries",
+      "hu": "áfonya"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "banana",
+    "category": "good",
+    "name": {
+      "en": "banana",
+      "hu": "banán"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "apricot",
+    "category": "good",
+    "name": {
+      "en": "apricot",
+      "hu": "sárgabarack"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "apple",
+    "category": "good",
+    "name": {
+      "en": "apple",
+      "hu": "alma"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "strawberry",
+    "category": "moderate",
+    "name": {
+      "en": "strawberry",
+      "hu": "eper"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "strawberries",
+    "category": "moderate",
+    "name": {
+      "en": "strawberries",
+      "hu": "eper"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "spinach",
+    "category": "moderate",
+    "name": {
+      "en": "spinach",
+      "hu": "spenót"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "baby-spinach",
+    "category": "moderate",
+    "name": {
+      "en": "baby spinach",
+      "hu": "bébispenót"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "canned-spinach",
+    "category": "moderate",
+    "name": {
+      "en": "canned spinach",
+      "hu": "spenótkonzerv"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "spinach-leaves",
+    "category": "moderate",
+    "name": {
+      "en": "spinach leaves",
+      "hu": "spenótlevelek"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "green-bean",
+    "category": "moderate",
+    "name": {
+      "en": "green bean",
+      "hu": "zöldbab"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "greenbeans",
+    "category": "moderate",
+    "name": {
+      "en": "greenbeans",
+      "hu": "zöldbab"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "brew",
+    "category": "harmful",
+    "name": {
+      "en": "brew",
+      "hu": "főzze"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "cold-one",
+    "category": "harmful",
+    "name": {
+      "en": "cold one",
+      "hu": "hideg"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "cooked-shrimp",
+    "category": "moderate",
+    "name": {
+      "en": "cooked shrimp",
+      "hu": "főtt garnélarák"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "chives",
+    "category": "harmful",
+    "name": {
+      "en": "chives",
+      "hu": "metélőhagyma"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "candy",
+    "category": "harmful",
+    "name": {
+      "en": "candy",
+      "hu": "cukorka"
+    },
+    "descriptionDictIdx": 3
+  },
+  {
+    "id": "candies",
+    "category": "harmful",
+    "name": {
+      "en": "candies",
+      "hu": "cukorkák"
+    },
+    "descriptionDictIdx": 3
+  },
+  {
+    "id": "candy's",
+    "category": "harmful",
+    "name": {
+      "en": "candy's",
+      "hu": "cukorkák"
+    },
+    "descriptionDictIdx": 3
+  },
+  {
+    "id": "xylitol",
+    "category": "harmful",
+    "name": {
+      "en": "xylitol",
+      "hu": "xilit"
+    },
+    "descriptionDictIdx": 4
+  },
+  {
+    "id": "rice",
+    "category": "good",
+    "name": {
+      "en": "rice",
+      "hu": "rizs"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "brown-rice",
+    "category": "good",
+    "name": {
+      "en": "brown rice",
+      "hu": "barna rizs"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "grapefruit",
+    "category": "harmful",
+    "name": {
+      "en": "grapefruit",
+      "hu": "grapefruit"
+    },
+    "descriptionDictIdx": 6
+  },
+  {
+    "id": "gum",
+    "category": "harmful",
+    "name": {
+      "en": "gum",
+      "hu": "gumi"
+    },
+    "descriptionDictIdx": 7
+  },
+  {
+    "id": "chewing-gum",
+    "category": "harmful",
+    "name": {
+      "en": "chewing gum",
+      "hu": "rágógumi"
+    },
+    "descriptionDictIdx": 7
+  },
+  {
+    "id": "orbit",
+    "category": "harmful",
+    "name": {
+      "en": "orbit",
+      "hu": "pálya"
+    },
+    "descriptionDictIdx": 7
+  },
+  {
+    "id": "alcohol",
+    "category": "harmful",
+    "name": {
+      "en": "alcohol",
+      "hu": "alkohol"
+    },
+    "descriptionDictIdx": 8
+  },
+  {
+    "id": "absinthe",
+    "category": "harmful",
+    "name": {
+      "en": "absinthe",
+      "hu": "abszint"
+    },
+    "descriptionDictIdx": 8
+  },
+  {
+    "id": "baileys",
+    "category": "harmful",
+    "name": {
+      "en": "baileys",
+      "hu": "baileys"
+    },
+    "descriptionDictIdx": 8
+  },
+  {
+    "id": "beer",
+    "category": "harmful",
+    "name": {
+      "en": "beer",
+      "hu": "sör"
+    },
+    "descriptionDictIdx": 8
+  },
+  {
+    "id": "brandy",
+    "category": "harmful",
+    "name": {
+      "en": "brandy",
+      "hu": "brandy"
+    },
+    "descriptionDictIdx": 8
+  },
+  {
+    "id": "champagne",
+    "category": "harmful",
+    "name": {
+      "en": "champagne",
+      "hu": "pezsgő"
+    },
+    "descriptionDictIdx": 8
+  },
+  {
+    "id": "cider",
+    "category": "harmful",
+    "name": {
+      "en": "cider",
+      "hu": "almabor"
+    },
+    "descriptionDictIdx": 8
+  },
+  {
+    "id": "gin",
+    "category": "harmful",
+    "name": {
+      "en": "gin",
+      "hu": "gin"
+    },
+    "descriptionDictIdx": 8
+  },
+  {
+    "id": "jäger-meister",
+    "category": "harmful",
+    "name": {
+      "en": "jäger meister",
+      "hu": "jäger meister"
+    },
+    "descriptionDictIdx": 8
+  },
+  {
+    "id": "liqueur",
+    "category": "harmful",
+    "name": {
+      "en": "liqueur",
+      "hu": "likőr"
+    },
+    "descriptionDictIdx": 8
+  },
+  {
+    "id": "rum",
+    "category": "harmful",
+    "name": {
+      "en": "rum",
+      "hu": "rum"
+    },
+    "descriptionDictIdx": 8
+  },
+  {
+    "id": "snaps",
+    "category": "harmful",
+    "name": {
+      "en": "snaps",
+      "hu": "snaps"
+    },
+    "descriptionDictIdx": 8
+  },
+  {
+    "id": "tequila",
+    "category": "harmful",
+    "name": {
+      "en": "tequila",
+      "hu": "tequila"
+    },
+    "descriptionDictIdx": 8
+  },
+  {
+    "id": "vodka",
+    "category": "harmful",
+    "name": {
+      "en": "vodka",
+      "hu": "vodka"
+    },
+    "descriptionDictIdx": 8
+  },
+  {
+    "id": "whiskey",
+    "category": "harmful",
+    "name": {
+      "en": "whiskey",
+      "hu": "whisky"
+    },
+    "descriptionDictIdx": 8
+  },
+  {
+    "id": "wine",
+    "category": "harmful",
+    "name": {
+      "en": "wine",
+      "hu": "bor"
+    },
+    "descriptionDictIdx": 8
+  },
+  {
+    "id": "onion",
+    "category": "harmful",
+    "name": {
+      "en": "onion",
+      "hu": "hagyma"
+    },
+    "descriptionDictIdx": 9
+  },
+  {
+    "id": "garlic",
+    "category": "harmful",
+    "name": {
+      "en": "garlic",
+      "hu": "fokhagyma"
+    },
+    "descriptionDictIdx": 9
+  },
+  {
+    "id": "green-onion",
+    "category": "harmful",
+    "name": {
+      "en": "green onion",
+      "hu": "zöldhagyma"
+    },
+    "descriptionDictIdx": 9
+  },
+  {
+    "id": "shallot",
+    "category": "harmful",
+    "name": {
+      "en": "shallot",
+      "hu": "mogyoróhagyma"
+    },
+    "descriptionDictIdx": 9
+  },
+  {
+    "id": "spring-onion",
+    "category": "harmful",
+    "name": {
+      "en": "spring onion",
+      "hu": "újhagyma"
+    },
+    "descriptionDictIdx": 9
+  },
+  {
+    "id": "chocolate",
+    "category": "harmful",
+    "name": {
+      "en": "chocolate",
+      "hu": "csokoládé"
+    },
+    "descriptionDictIdx": 10
+  },
+  {
+    "id": "bittersweet-chocolate",
+    "category": "harmful",
+    "name": {
+      "en": "bittersweet chocolate",
+      "hu": "keserédes csokoládé"
+    },
+    "descriptionDictIdx": 10
+  },
+  {
+    "id": "dark-chocolate",
+    "category": "harmful",
+    "name": {
+      "en": "dark chocolate",
+      "hu": "étcsokoládé"
+    },
+    "descriptionDictIdx": 10
+  },
+  {
+    "id": "milk-chocolate",
+    "category": "harmful",
+    "name": {
+      "en": "milk chocolate",
+      "hu": "tejcsokoládé"
+    },
+    "descriptionDictIdx": 10
+  },
+  {
+    "id": "white-chocolate",
+    "category": "harmful",
+    "name": {
+      "en": "white chocolate",
+      "hu": "fehér csokoládé"
+    },
+    "descriptionDictIdx": 10
+  },
+  {
+    "id": "ketchup",
+    "category": "moderate",
+    "name": {
+      "en": "ketchup",
+      "hu": "ketchup"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "mayo",
+    "category": "moderate",
+    "name": {
+      "en": "mayo",
+      "hu": "mayo"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "mayonnaise",
+    "category": "moderate",
+    "name": {
+      "en": "mayonnaise",
+      "hu": "majonéz"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "peanut-butter",
+    "category": "moderate",
+    "name": {
+      "en": "peanut butter",
+      "hu": "mogyoróvaj"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "tomato",
+    "category": "good",
+    "name": {
+      "en": "tomato",
+      "hu": "paradicsom"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "tomatoe",
+    "category": "good",
+    "name": {
+      "en": "tomatoe",
+      "hu": "paradicsom"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "fish",
+    "category": "harmful",
+    "name": {
+      "en": "fish",
+      "hu": "hal"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "pizza",
+    "category": "harmful",
+    "name": {
+      "en": "pizza",
+      "hu": "pizza"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "salmon",
+    "category": "good",
+    "name": {
+      "en": "salmon",
+      "hu": "lazac"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "anchovies",
+    "category": "good",
+    "name": {
+      "en": "anchovies",
+      "hu": "szardellák"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "herring",
+    "category": "good",
+    "name": {
+      "en": "herring",
+      "hu": "hering"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "mackerel",
+    "category": "good",
+    "name": {
+      "en": "mackerel",
+      "hu": "makréla"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "sardines",
+    "category": "good",
+    "name": {
+      "en": "sardines",
+      "hu": "szardínia"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "shrimp",
+    "category": "good",
+    "name": {
+      "en": "shrimp",
+      "hu": "garnélarák"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "smelts",
+    "category": "good",
+    "name": {
+      "en": "smelts",
+      "hu": "csempék"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "tuna",
+    "category": "good",
+    "name": {
+      "en": "tuna",
+      "hu": "tonhal"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "prawn",
+    "category": "moderate",
+    "name": {
+      "en": "prawn",
+      "hu": "garnélarák"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "walnut",
+    "category": "moderate",
+    "name": {
+      "en": "walnut",
+      "hu": "dió"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "beef-jerky",
+    "category": "moderate",
+    "name": {
+      "en": "beef jerky",
+      "hu": "marhahús szárított húst"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "cereal",
+    "category": "moderate",
+    "name": {
+      "en": "cereal",
+      "hu": "gabona"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "cottage-cheese",
+    "category": "moderate",
+    "name": {
+      "en": "cottage cheese",
+      "hu": "túró"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "cheese",
+    "category": "moderate",
+    "name": {
+      "en": "cheese",
+      "hu": "sajt"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "sausage",
+    "category": "harmful",
+    "name": {
+      "en": "sausage",
+      "hu": "kolbász"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "yogurt",
+    "category": "moderate",
+    "name": {
+      "en": "yogurt",
+      "hu": "joghurt"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "sour-cream",
+    "category": "moderate",
+    "name": {
+      "en": "sour cream",
+      "hu": "tejföl"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "milk",
+    "category": "harmful",
+    "name": {
+      "en": "milk",
+      "hu": "tej"
+    },
+    "descriptionDictIdx": -1
+  },
+  {
+    "id": "bones",
+    "category": "moderate",
+    "name": {
+      "en": "bones",
+      "hu": "csontok"
+    },
+    "descriptionDictIdx": -1
+  }
+]

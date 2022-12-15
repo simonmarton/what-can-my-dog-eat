@@ -1,0 +1,2270 @@
+[
+  {
+    "name": "licorice",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "baked beans",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "crisps",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "crisp",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "gravy",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "caramel",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "coke zero",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "coke",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "jelly",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "jam",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "poppy seed",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "poppyseed",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "poppy seeds",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "marshmallow",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "marshmallows",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "cotton candy",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "pomegranate",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "yeast dough",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "yeastdough",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "nutella",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "coca cola",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "cola",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "light cola",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "pepsi",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "sprite",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "soda",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "jalapeno",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "jalapenos",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "spring onions",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "sugar",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "chilli",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "scallion",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "scallions",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "green onions",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "chilli pepper",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "chili",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "chilli peppers",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "french fries",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "chips",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "fries",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "potato chips",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "jagermeister",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "jäger meister",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "whisky",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "avocado",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "avocado's",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "avocadoe",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "oreo",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "apple cider",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "pepper",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "leek",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "leeks",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "brisket",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "bbq",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "mustard",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "pickles",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "pickle",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "squash",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "pistachio",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "pistachios",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "lemon",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "lemons",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "lime",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "limes",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "garlics",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "garlic",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "garlic clove",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "garlic cloves",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "rhubarb",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "rhubarbs",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "wildmushroom",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "wild mushroom",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "wild mushrooms",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "grape",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "grapes",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "mushroom",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "mushrooms",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "raisin",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "raisins",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "macadamia nut",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "macadamia nuts",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "macadamianut",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "coffee",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "cappuccino",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "decaf coffee",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "latte",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "tea",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "nutmeg",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "yeast",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "ice cream",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "icecream",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "garlic powder",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "mozzarella",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "tofu",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "salad",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "corn flakes",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "corn flake",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "cherry",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "cherries",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "flour",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "butter",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "honey",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "almonds",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "cashew",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "cashews",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "salt",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "coconut",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "raspberry",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "raspberries",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "venison",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "steak",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "lentil",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "lentils",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "soy milk",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "capsicum",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "capsicums",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "papaya",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "papayas",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "guava",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "water",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "dog food",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "dogfood",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "soya",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "kale",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "thyme",
+    "description": "",
+    "category": "moderate",
+    "category_desc": null
+  },
+  {
+    "name": "buckwheat",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "lamb",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "vinegar",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "chickpea",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "chickpeas",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "fig",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "figs",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "parsnip",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "parsnips",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "eggplant",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "eggplants",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "black beans",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "bean",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "beans",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "black bean",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "ginger",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "beet",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "beets",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "artichoke",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "artichokes",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "iceberg lettuce",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "olive",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "olives",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "roll",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "pretzel",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "bacon",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "pasta",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "spaghetti",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "grain",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "grains",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "wheat",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "quinoa",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "peanut",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "peanuts",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "ham",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "turkey",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "cinamon",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "cinnamon",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "beef",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "pork",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "chicken",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "oatmeal",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "bread",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "brown bread",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "sourdough",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "white bread",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "whole grain bread",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "popcorn",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "egg",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "eggs",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "nectarine",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "nectarines",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "tangerine",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "tangerines",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "plum",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "plums",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "honeydew",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "honey dew",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "dates",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "date",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "medjool",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "kiwi",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "kiwis",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "blackberry",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "blackberries",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "potato",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "potatoes",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "zucchini",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "sweet potato",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "sweet potatoes",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "pumpkin",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "pea",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "peas",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "lettuce",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "cucumber",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "cucumbers",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "celery",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "celeries",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "carrot",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "carrots",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "brussels sprouts",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "brussel sprouts",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "brussels",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "green bell pepper",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "green bell peppers",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "orange bell pepper",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "orange bell peppers",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "red bell pepper",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "red bell peppers",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "orange bell pepper",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "orange bell peppers",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "red bell pepper",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "red bell peppers",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "bell pepper",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "bell peppers",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "asparagus",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "cabbage",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "cabbages",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "cauliflower",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "cauliflowers",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "broccoli",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "corn",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "watermelon",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "watermelons",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "pineapple",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "pineapples",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "pear",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "pears",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "orange",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "oranges",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "mango",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "mangoes",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "cranberry",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "cranberries",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "cantaloupe",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "cantaloupes",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "blueberry",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "blueberries",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "banana",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "bananas",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "apricot",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "apricots",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "apple",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "apples",
+    "description": "",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "strawberry",
+    "description": "Tip: Strawberries are a healthy snack or topper for dogs and contain Vitamin C, antioxidants, and fiber. They are high in sugar, so let your pup enjoy this sweet berry in moderation.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "strawberries",
+    "description": "Tip: Strawberries are a healthy snack or topper for dogs and contain Vitamin C, antioxidants, and fiber. They are high in sugar, so let your pup enjoy this sweet berry in moderation.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "spinach",
+    "description": "Tip: spinach is good for dogs in moderation. If your puppy or dog has a kidney disease or sensitivity, you should avoid spinach in their diet as it is high in oxalic acid.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "baby spinach",
+    "description": "Tip: spinach is good for dogs in moderation. If your puppy or dog has a kidney disease or sensitivity, you should avoid spinach in their diet as it is high in oxalic acid.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "canned spinach",
+    "description": "Tip: spinach is good for dogs in moderation. If your puppy or dog has a kidney disease or sensitivity, you should avoid spinach in their diet as it is high in oxalic acid.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "spinach",
+    "description": "Tip: spinach is good for dogs in moderation. If your puppy or dog has a kidney disease or sensitivity, you should avoid spinach in their diet as it is high in oxalic acid.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "spinach leaves",
+    "description": "Tip: spinach is good for dogs in moderation. If your puppy or dog has a kidney disease or sensitivity, you should avoid spinach in their diet as it is high in oxalic acid.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "green bean",
+    "description": "Tip: green beans are good in moderation. This vegetable can be given to dogs raw, steamed, chopped, or canned (but be careful of sodium content). They can be used as treats, toppers, and are especially helpful for dogs needing to fill full while on a calorie-restricted diet.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "green beans",
+    "description": "Tip: green beans are good in moderation. This vegetable can be given to dogs raw, steamed, chopped, or canned (but be careful of sodium content). They can be used as treats, toppers, and are especially helpful for dogs needing to fill full while on a calorie-restricted diet.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "greenbeans",
+    "description": "Tip: green beans are good in moderation. This vegetable can be given to dogs raw, steamed, chopped, or canned (but be careful of sodium content). They can be used as treats, toppers, and are especially helpful for dogs needing to fill full while on a calorie-restricted diet.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "wine",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "beer",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "brew",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "cold one",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "shrimp",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "cooked shrimp",
+    "description": "",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "chives",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "chive",
+    "description": "",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "bad jokes",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "acid",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "ass",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "ballsack",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "butt",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "cat",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "cocaine",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "cock",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "crap",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "cyanide",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "dick",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "flower",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "garnet",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "homework",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "horse",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "jesus",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "kids",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "love",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "medicine",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "metal",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "paper",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "penis",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "plastic",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "poison",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "rubish",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "sand",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "shit",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "steroids",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "stone",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "stones",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "trash",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "venom",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "weed",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "your mother",
+    "description": "",
+    "category": "bad-jokes",
+    "category_desc": "Haha! You must be the funny one! Let's type a food instead..."
+  },
+  {
+    "name": "candy",
+    "description": "Some candies contain xylitol which is very dangerous for dogs. If your dog ate food that contains xylitol, contact the Pet Poison Help Line (petpoisonhelpline.com)or your vet immediately.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "candies",
+    "description": "Some candies contain xylitol which is very dangerous for dogs. If your dog ate food that contains xylitol, contact the Pet Poison Help Line (petpoisonhelpline.com)or your vet immediately.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "candy's",
+    "description": "Some candies contain xylitol which is very dangerous for dogs. If your dog ate food that contains xylitol, contact the Pet Poison Help Line (petpoisonhelpline.com)or your vet immediately.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "xylitol",
+    "description": "Xylitol is very dangerous for dogs. If your dog ate food that contains xylitol, contact the Pet Poison Help Line (petpoisonhelpline.com) or your vet immediately.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "rice",
+    "description": "Tip: brown rice is better for dogs since white rice is highly processed. Brown rice has more vitamins, minerals and fiber. You should keep the amount of grain foods like brown rice less than 30% of your dog’s diet.",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "brown rice",
+    "description": "Tip: brown rice is better for dogs since white rice is highly processed. Brown rice has more vitamins, minerals and fiber. You should keep the amount of grain foods like brown rice less than 30% of your dog’s diet.",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "grapefruit",
+    "description": "What to do if your dog ate %answer%? It’s best to call your veterinarian. Grapefruit rinds and plant parts are toxic to dogs, the flesh is acidic but not toxic.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "grapefruits",
+    "description": "What to do if your dog ate %answer%? It’s best to call your veterinarian. Grapefruit rinds and plant parts are toxic to dogs, the flesh is acidic but not toxic.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "gum",
+    "description": "What to do if your dog ate %answer%? If your dog recently ingested gum with xylitol in it, contact the Pet Poison Help Line (petpoisonhelpline.com) or your vet immediately.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "chewing gum",
+    "description": "What to do if your dog ate %answer%? If your dog recently ingested gum with xylitol in it, contact the Pet Poison Help Line (petpoisonhelpline.com) or your vet immediately.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "orbit",
+    "description": "What to do if your dog ate %answer%? If your dog recently ingested gum with xylitol in it, contact the Pet Poison Help Line (petpoisonhelpline.com) or your vet immediately.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "alcohol",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "absinthe",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "baileys",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "beer",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "brandy",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "champagne",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "cider",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "gin",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "jäger meister",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "jägermeister",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "liqueur",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "rum",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "snaps",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "tequila",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "vodka",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "whiskey",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "wine",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "onion",
+    "description": "What to do if your dog ate %answer%? Having a bite of something with onion isn’t likely to make your dog sick. If you think your dog ate onions in large quantities, or if your dog seems he isn’t feeling well, then call your veterinarian.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "garlic",
+    "description": "What to do if your dog ate %answer%? Having a bite of something with onion isn’t likely to make your dog sick. If you think your dog ate onions in large quantities, or if your dog seems he isn’t feeling well, then call your veterinarian.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "green onion",
+    "description": "What to do if your dog ate %answer%? Having a bite of something with onion isn’t likely to make your dog sick. If you think your dog ate onions in large quantities, or if your dog seems he isn’t feeling well, then call your veterinarian.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "onions",
+    "description": "What to do if your dog ate %answer%? Having a bite of something with onion isn’t likely to make your dog sick. If you think your dog ate onions in large quantities, or if your dog seems he isn’t feeling well, then call your veterinarian.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "shallot",
+    "description": "What to do if your dog ate %answer%? Having a bite of something with onion isn’t likely to make your dog sick. If you think your dog ate onions in large quantities, or if your dog seems he isn’t feeling well, then call your veterinarian.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "shallots",
+    "description": "What to do if your dog ate %answer%? Having a bite of something with onion isn’t likely to make your dog sick. If you think your dog ate onions in large quantities, or if your dog seems he isn’t feeling well, then call your veterinarian.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "spring onion",
+    "description": "What to do if your dog ate %answer%? Having a bite of something with onion isn’t likely to make your dog sick. If you think your dog ate onions in large quantities, or if your dog seems he isn’t feeling well, then call your veterinarian.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "chocolate",
+    "description": "What to do if your dog ate %answer%? Call your veterinarian immediately and/or call a pet poison helpline for advice",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "bittersweet chocolate",
+    "description": "What to do if your dog ate %answer%? Call your veterinarian immediately and/or call a pet poison helpline for advice",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "dark chocolate",
+    "description": "What to do if your dog ate %answer%? Call your veterinarian immediately and/or call a pet poison helpline for advice",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "milk chocolate",
+    "description": "What to do if your dog ate %answer%? Call your veterinarian immediately and/or call a pet poison helpline for advice",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "white chocolate",
+    "description": "What to do if your dog ate %answer%? Call your veterinarian immediately and/or call a pet poison helpline for advice",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "ketchup",
+    "description": "Tip: Normal ketchup is safe, but make sure to avoid those that contain xylitol. Xylitol is super dangerous for dogs. If your dog ate food that contains xylitol, contact the Pet Poison Help Line (petpoisonhelpline.com) or your vet immediately.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "mayo",
+    "description": "Tip: Normal mayo is safe, but make sure to avoid those that contain xylitol. Xylitol is super dangerous for dogs. If your dog ate food that contains xylitol, contact the Pet Poison Help Line (petpoisonhelpline.com) or your vet immediately.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "mayonnaise",
+    "description": "Tip: Normal mayo is safe, but make sure to avoid those that contain xylitol. Xylitol is super dangerous for dogs. If your dog ate food that contains xylitol, contact the Pet Poison Help Line (petpoisonhelpline.com) or your vet immediately.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "peanut butter",
+    "description": "Tip: Normal peanut butter is safe, but make sure to avoid those that contain xylitol or artificial sugar. Xylitol is super dangerous for dogs. If your dog ate food that contains xylitol, contact the Pet Poison Help Line (petpoisonhelpline.com) or your vet immediately.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "peanutbutter",
+    "description": "Tip: Normal peanut butter is safe, but make sure to avoid those that contain xylitol or artificial sugar. Xylitol is super dangerous for dogs. If your dog ate food that contains xylitol, contact the Pet Poison Help Line (petpoisonhelpline.com) or your vet immediately.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "tomato",
+    "description": "Tip: Steam; the leaves contain solanine, which is harmful to dogs in large quantities. Ripe tomatoes are safe but avoid giving them green tomatoes and the green parts.",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "tomatoe",
+    "description": "Tip: Steam; the leaves contain solanine, which is harmful to dogs in large quantities. Ripe tomatoes are safe but avoid giving them green tomatoes and the green parts.",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "tomatoes",
+    "description": "Tip: Steam; the leaves contain solanine, which is harmful to dogs in large quantities. Ripe tomatoes are safe but avoid giving them green tomatoes and the green parts.",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "fish",
+    "description": "Tip: Avoid giving fish that has small bones in it; boneless fishes such as salmon is OK, but needs to be cooked.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "pizza",
+    "description": "Tip: It doesn't provide much nutrition for your dog. But the main reason it's not recommended is because pizza could contain onion or garlic which are dangerous for your dog.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "salmon",
+    "description": "Tip: Just cooked; avoid raw ones.",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "anchovies",
+    "description": "Tip: Just cooked; avoid raw ones.",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "herring",
+    "description": "Tip: Just cooked; avoid raw ones.",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "mackerel",
+    "description": "Tip: Just cooked; avoid raw ones.",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "sardines",
+    "description": "Tip: Just cooked; avoid raw ones.",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "shrimp",
+    "description": "Tip: Just cooked; avoid raw ones.",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "smelts",
+    "description": "Tip: Just cooked; avoid raw ones.",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "tuna",
+    "description": "Tip: Just cooked; avoid raw ones.",
+    "category": "good",
+    "category_desc": "Yep, you can give %answer% to your dog but only in a healthy amount.🙌 Check our guide below for further instructions. For the optimal amount visit: dogsfirst.ie/dog-food-calculator"
+  },
+  {
+    "name": "prawn",
+    "description": "Tip: Make sure to cook it and remove shell.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "prawns",
+    "description": "Tip: Make sure to cook it and remove shell.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "walnut",
+    "description": "Tip: Fresh walnuts aren’t dangerous in small amounts, but moldy ones are.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "walnuts",
+    "description": "Tip: Fresh walnuts aren’t dangerous in small amounts, but moldy ones are.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "beef jerky",
+    "description": "Tip: Avoid too spicy ones and also those with onion or garlic flavour.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "beefjerky",
+    "description": "Tip: Avoid too spicy ones and also those with onion or garlic flavour.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "cereal",
+    "description": "Tip: Ocasionally, as a treat in small portions, but never substitute a full meal with cereal, since feeding your dog too often with cereal could lead to obesity and diabetes. Avoid giving your dog cereal containing chocolate or a high level of sugar.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "cereals",
+    "description": "Tip: Ocasionally, as a treat in small portions, but never substitute a full meal with cereal, since feeding your dog too often with cereal could lead to obesity and diabetes. Avoid giving your dog cereal containing chocolate or a high level of sugar.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "cottage cheese",
+    "description": "Tip: Very limited consumption; if it causes diarrhea or digestive upset, stop giving it to your dog entirely.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "cottagecheese",
+    "description": "Tip: Very limited consumption; if it causes diarrhea or digestive upset, stop giving it to your dog entirely.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "cheese",
+    "description": "Tip: Very limited consumption; if it causes diarrhea or digestive upset, stop giving it to your dog entirely.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "sausage",
+    "description": "Tip: Not recommended because sausages are too spicy and salty for your dog. Avoid sausages with onion or garlic flavour.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "sausages",
+    "description": "Tip: Not recommended because sausages are too spicy and salty for your dog. Avoid sausages with onion or garlic flavour.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "yogurt",
+    "description": "Tip: Only in a moderate amount. If it causes diarrhea or digestive upset, stop giving it to your dog entirely. Important: avoid sweetened ones containing xylitol. Xylitol is super dangerous for dogs. If your dog ate yogurt that contains xylitol, contact the Pet Poison Help Line (petpoisonhelpline.com) or your vet immediately.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "sour cream",
+    "description": "Tip: Only very limited amount since most of the dogs have problems digesting lactose; any kind of food containing milk could be risky to your dog. If it causes diarrhea or digestive upset, stop giving any kind of milk product to your dog.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "sourcream",
+    "description": "Tip: Only very limited amount since most of the dogs have problems digesting lactose; any kind of food containing milk could be risky to your dog. If it causes diarrhea or digestive upset, stop giving any kind of milk product to your dog.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "milk",
+    "description": "Tip: Only very limited amount since most of the dogs have problems digesting lactose; any kind of food containing milk could be risky to your dog. If it causes diarrhea or digestive upset, stop giving any kind of milk product to your dog.",
+    "category": "harmful",
+    "category_desc": "Nope! You shouldn't give %answer% to your dog! 🙅‍"
+  },
+  {
+    "name": "bones",
+    "description": "Tip: It’s much safer to give your dog raw bones than cooked ones. Pork and poultry bones or cooked bones of any kind are strictly forbidden since bone shards can cause choking and serious damage to the dog’s mouth, throat, or intestines.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  },
+  {
+    "name": "bone",
+    "description": "Tip: It’s much safer to give your dog raw bones than cooked ones. Pork and poultry bones or cooked bones of any kind are strictly forbidden since bone shards can cause choking and serious damage to the dog’s mouth, throat, or intestines.",
+    "category": "moderate",
+    "category_desc": "Hmmm, maybe. Please, check our guide below 👇🏿"
+  }
+]

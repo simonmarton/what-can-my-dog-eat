@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "transform-data": "deno run --allow-net --allow-write scripts/transform.ts"
+  }
+}

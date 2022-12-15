@@ -1,0 +1,1514 @@
+[
+  {
+    "name": "licorice",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "édesgyökér"
+  },
+  {
+    "name": "baked beans",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "sült bab"
+  },
+  {
+    "name": "crisps",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "chips"
+  },
+  {
+    "name": "gravy",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "mártás"
+  },
+  {
+    "name": "caramel",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "karamell"
+  },
+  {
+    "name": "coke zero",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "coke zero"
+  },
+  {
+    "name": "coke",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "koksz"
+  },
+  {
+    "name": "jelly",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "zselé"
+  },
+  {
+    "name": "jam",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "lekvár"
+  },
+  {
+    "name": "poppy seed",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "mák"
+  },
+  {
+    "name": "marshmallow",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "mályvacukor"
+  },
+  {
+    "name": "cotton candy",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "vattacukor"
+  },
+  {
+    "name": "pomegranate",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "gránátalma"
+  },
+  {
+    "name": "yeast dough",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "élesztős tészta"
+  },
+  {
+    "name": "nutella",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "nutella"
+  },
+  {
+    "name": "coca cola",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "Coca Cola"
+  },
+  {
+    "name": "cola",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "cola"
+  },
+  {
+    "name": "light cola",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "light kóla"
+  },
+  {
+    "name": "pepsi",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "pepsi"
+  },
+  {
+    "name": "sprite",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "sprite"
+  },
+  {
+    "name": "soda",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "szóda"
+  },
+  {
+    "name": "jalapeno",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "jalapeno"
+  },
+  {
+    "name": "sugar",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "cukor"
+  },
+  {
+    "name": "chilli",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "chili"
+  },
+  {
+    "name": "scallion",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "mogyoróhagyma"
+  },
+  {
+    "name": "chilli pepper",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "chilipaprika"
+  },
+  {
+    "name": "chili",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "chili"
+  },
+  {
+    "name": "french fries",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "sült krumpli"
+  },
+  {
+    "name": "chips",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "chipek"
+  },
+  {
+    "name": "fries",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "sült krumpli"
+  },
+  {
+    "name": "potato chips",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "burgonya chips"
+  },
+  {
+    "name": "jagermeister",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "jagermeister"
+  },
+  {
+    "name": "whisky",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "whisky"
+  },
+  {
+    "name": "avocado",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "avokádó"
+  },
+  {
+    "name": "avocado's",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "avokádó"
+  },
+  {
+    "name": "avocadoe",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "avocadoe"
+  },
+  {
+    "name": "oreo",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "oreo"
+  },
+  {
+    "name": "apple cider",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "almabor"
+  },
+  {
+    "name": "pepper",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "bors"
+  },
+  {
+    "name": "leek",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "póréhagyma"
+  },
+  {
+    "name": "brisket",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "szegyszegy"
+  },
+  {
+    "name": "bbq",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "bbq"
+  },
+  {
+    "name": "mustard",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "mustár"
+  },
+  {
+    "name": "pickles",
+    "description": "",
+    "category": "moderate",
+    "translated-hu": "savanyúságok"
+  },
+  {
+    "name": "squash",
+    "description": "",
+    "category": "moderate",
+    "translated-hu": "squash"
+  },
+  {
+    "name": "pistachio",
+    "description": "",
+    "category": "moderate",
+    "translated-hu": "pisztácia"
+  },
+  {
+    "name": "lemon",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "citrom"
+  },
+  {
+    "name": "lime",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "lime"
+  },
+  {
+    "name": "garlic clove",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "fokhagymagerezd"
+  },
+  {
+    "name": "rhubarb",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "rebarbara"
+  },
+  {
+    "name": "wildmushroom",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "vadgomba"
+  },
+  {
+    "name": "wild mushrooms",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "erdei gombák"
+  },
+  {
+    "name": "grape",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "szőlő"
+  },
+  {
+    "name": "mushroom",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "gomba"
+  },
+  {
+    "name": "raisin",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "mazsola"
+  },
+  {
+    "name": "macadamia nut",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "makadámiadió"
+  },
+  {
+    "name": "coffee",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "kávé"
+  },
+  {
+    "name": "cappuccino",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "cappuccino"
+  },
+  {
+    "name": "decaf coffee",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "koffeinmentes kávé"
+  },
+  {
+    "name": "latte",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "latte"
+  },
+  {
+    "name": "tea",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "tea"
+  },
+  {
+    "name": "nutmeg",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "szerecsendió"
+  },
+  {
+    "name": "yeast",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "élesztő"
+  },
+  {
+    "name": "ice cream",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "jégkrém"
+  },
+  {
+    "name": "garlic powder",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "fokhagymapor"
+  },
+  {
+    "name": "mozzarella",
+    "description": "",
+    "category": "moderate",
+    "translated-hu": "mozzarella"
+  },
+  {
+    "name": "tofu",
+    "description": "",
+    "category": "moderate",
+    "translated-hu": "tofu"
+  },
+  {
+    "name": "salad",
+    "description": "",
+    "category": "moderate",
+    "translated-hu": "saláta"
+  },
+  {
+    "name": "corn flakes",
+    "description": "",
+    "category": "moderate",
+    "translated-hu": "kukoricapehely"
+  },
+  {
+    "name": "cherry",
+    "description": "",
+    "category": "moderate",
+    "translated-hu": "cseresznye"
+  },
+  {
+    "name": "cherries",
+    "description": "",
+    "category": "moderate",
+    "translated-hu": "cseresznye"
+  },
+  {
+    "name": "flour",
+    "description": "",
+    "category": "moderate",
+    "translated-hu": "liszt"
+  },
+  {
+    "name": "butter",
+    "description": "",
+    "category": "moderate",
+    "translated-hu": "vaj"
+  },
+  {
+    "name": "honey",
+    "description": "",
+    "category": "moderate",
+    "translated-hu": "méz"
+  },
+  {
+    "name": "almonds",
+    "description": "",
+    "category": "moderate",
+    "translated-hu": "mandula"
+  },
+  {
+    "name": "cashew",
+    "description": "",
+    "category": "moderate",
+    "translated-hu": "kesudió"
+  },
+  {
+    "name": "salt",
+    "description": "",
+    "category": "moderate",
+    "translated-hu": "só"
+  },
+  {
+    "name": "coconut",
+    "description": "",
+    "category": "moderate",
+    "translated-hu": "kókuszdió"
+  },
+  {
+    "name": "raspberry",
+    "description": "",
+    "category": "moderate",
+    "translated-hu": "málna"
+  },
+  {
+    "name": "raspberries",
+    "description": "",
+    "category": "moderate",
+    "translated-hu": "málna"
+  },
+  {
+    "name": "venison",
+    "description": "",
+    "category": "good",
+    "translated-hu": "szarvas"
+  },
+  {
+    "name": "steak",
+    "description": "",
+    "category": "good",
+    "translated-hu": "steak"
+  },
+  {
+    "name": "lentil",
+    "description": "",
+    "category": "good",
+    "translated-hu": "lencse"
+  },
+  {
+    "name": "soy milk",
+    "description": "",
+    "category": "good",
+    "translated-hu": "szójatej"
+  },
+  {
+    "name": "capsicum",
+    "description": "",
+    "category": "good",
+    "translated-hu": "paprika"
+  },
+  {
+    "name": "papaya",
+    "description": "",
+    "category": "good",
+    "translated-hu": "papaya"
+  },
+  {
+    "name": "guava",
+    "description": "",
+    "category": "good",
+    "translated-hu": "guava"
+  },
+  {
+    "name": "water",
+    "description": "",
+    "category": "good",
+    "translated-hu": "víz"
+  },
+  {
+    "name": "dog food",
+    "description": "",
+    "category": "good",
+    "translated-hu": "kutyaeledel"
+  },
+  {
+    "name": "soya",
+    "description": "",
+    "category": "good",
+    "translated-hu": "szója"
+  },
+  {
+    "name": "kale",
+    "description": "",
+    "category": "good",
+    "translated-hu": "kelkáposzta"
+  },
+  {
+    "name": "thyme",
+    "description": "",
+    "category": "moderate",
+    "translated-hu": "kakukkfű"
+  },
+  {
+    "name": "buckwheat",
+    "description": "",
+    "category": "good",
+    "translated-hu": "hajdina"
+  },
+  {
+    "name": "lamb",
+    "description": "",
+    "category": "good",
+    "translated-hu": "bárány"
+  },
+  {
+    "name": "vinegar",
+    "description": "",
+    "category": "good",
+    "translated-hu": "ecet"
+  },
+  {
+    "name": "chickpea",
+    "description": "",
+    "category": "good",
+    "translated-hu": "csicseriborsó"
+  },
+  {
+    "name": "fig",
+    "description": "",
+    "category": "good",
+    "translated-hu": "fig"
+  },
+  {
+    "name": "parsnip",
+    "description": "",
+    "category": "good",
+    "translated-hu": "paszternák"
+  },
+  {
+    "name": "eggplant",
+    "description": "",
+    "category": "good",
+    "translated-hu": "padlizsán"
+  },
+  {
+    "name": "black beans",
+    "description": "",
+    "category": "good",
+    "translated-hu": "fekete bab"
+  },
+  {
+    "name": "bean",
+    "description": "",
+    "category": "good",
+    "translated-hu": "bab"
+  },
+  {
+    "name": "ginger",
+    "description": "",
+    "category": "good",
+    "translated-hu": "gyömbér"
+  },
+  {
+    "name": "beet",
+    "description": "",
+    "category": "good",
+    "translated-hu": "répa"
+  },
+  {
+    "name": "artichoke",
+    "description": "",
+    "category": "good",
+    "translated-hu": "articsóka"
+  },
+  {
+    "name": "iceberg lettuce",
+    "description": "",
+    "category": "good",
+    "translated-hu": "jégsaláta"
+  },
+  {
+    "name": "olive",
+    "description": "",
+    "category": "good",
+    "translated-hu": "olívaolaj"
+  },
+  {
+    "name": "roll",
+    "description": "",
+    "category": "good",
+    "translated-hu": "roll"
+  },
+  {
+    "name": "pretzel",
+    "description": "",
+    "category": "good",
+    "translated-hu": "perec"
+  },
+  {
+    "name": "bacon",
+    "description": "",
+    "category": "good",
+    "translated-hu": "bacon"
+  },
+  {
+    "name": "pasta",
+    "description": "",
+    "category": "good",
+    "translated-hu": "tészta"
+  },
+  {
+    "name": "spaghetti",
+    "description": "",
+    "category": "good",
+    "translated-hu": "spagetti"
+  },
+  {
+    "name": "grain",
+    "description": "",
+    "category": "good",
+    "translated-hu": "gabona"
+  },
+  {
+    "name": "wheat",
+    "description": "",
+    "category": "good",
+    "translated-hu": "búza"
+  },
+  {
+    "name": "quinoa",
+    "description": "",
+    "category": "good",
+    "translated-hu": "quinoa"
+  },
+  {
+    "name": "peanut",
+    "description": "",
+    "category": "good",
+    "translated-hu": "mogyoró"
+  },
+  {
+    "name": "ham",
+    "description": "",
+    "category": "good",
+    "translated-hu": "sonka"
+  },
+  {
+    "name": "turkey",
+    "description": "",
+    "category": "good",
+    "translated-hu": "pulyka"
+  },
+  {
+    "name": "cinamon",
+    "description": "",
+    "category": "good",
+    "translated-hu": "cinamon"
+  },
+  {
+    "name": "cinnamon",
+    "description": "",
+    "category": "good",
+    "translated-hu": "fahéj"
+  },
+  {
+    "name": "beef",
+    "description": "",
+    "category": "good",
+    "translated-hu": "marhahús"
+  },
+  {
+    "name": "pork",
+    "description": "",
+    "category": "good",
+    "translated-hu": "sertéshús"
+  },
+  {
+    "name": "chicken",
+    "description": "",
+    "category": "good",
+    "translated-hu": "csirke"
+  },
+  {
+    "name": "oatmeal",
+    "description": "",
+    "category": "good",
+    "translated-hu": "zabpehely"
+  },
+  {
+    "name": "bread",
+    "description": "",
+    "category": "good",
+    "translated-hu": "kenyér"
+  },
+  {
+    "name": "brown bread",
+    "description": "",
+    "category": "good",
+    "translated-hu": "barna kenyér"
+  },
+  {
+    "name": "sourdough",
+    "description": "",
+    "category": "good",
+    "translated-hu": "kovász"
+  },
+  {
+    "name": "white bread",
+    "description": "",
+    "category": "good",
+    "translated-hu": "fehér kenyér"
+  },
+  {
+    "name": "whole grain bread",
+    "description": "",
+    "category": "good",
+    "translated-hu": "teljes kiőrlésű kenyér"
+  },
+  {
+    "name": "popcorn",
+    "description": "",
+    "category": "good",
+    "translated-hu": "popcorn"
+  },
+  {
+    "name": "egg",
+    "description": "",
+    "category": "good",
+    "translated-hu": "tojás"
+  },
+  {
+    "name": "nectarine",
+    "description": "",
+    "category": "good",
+    "translated-hu": "nektarin"
+  },
+  {
+    "name": "tangerine",
+    "description": "",
+    "category": "good",
+    "translated-hu": "mandarin"
+  },
+  {
+    "name": "plum",
+    "description": "",
+    "category": "good",
+    "translated-hu": "szilva"
+  },
+  {
+    "name": "honeydew",
+    "description": "",
+    "category": "good",
+    "translated-hu": "mézharmat"
+  },
+  {
+    "name": "dates",
+    "description": "",
+    "category": "good",
+    "translated-hu": "datolya"
+  },
+  {
+    "name": "medjool",
+    "description": "",
+    "category": "good",
+    "translated-hu": "medjool"
+  },
+  {
+    "name": "kiwi",
+    "description": "",
+    "category": "good",
+    "translated-hu": "kiwi"
+  },
+  {
+    "name": "blackberry",
+    "description": "",
+    "category": "good",
+    "translated-hu": "szeder"
+  },
+  {
+    "name": "blackberries",
+    "description": "",
+    "category": "good",
+    "translated-hu": "szeder"
+  },
+  {
+    "name": "potato",
+    "description": "",
+    "category": "good",
+    "translated-hu": "burgonya"
+  },
+  {
+    "name": "potatoes",
+    "description": "",
+    "category": "good",
+    "translated-hu": "burgonya"
+  },
+  {
+    "name": "zucchini",
+    "description": "",
+    "category": "good",
+    "translated-hu": "cukkini"
+  },
+  {
+    "name": "sweet potato",
+    "description": "",
+    "category": "good",
+    "translated-hu": "édesburgonya"
+  },
+  {
+    "name": "sweet potatoes",
+    "description": "",
+    "category": "good",
+    "translated-hu": "édesburgonya"
+  },
+  {
+    "name": "pumpkin",
+    "description": "",
+    "category": "good",
+    "translated-hu": "sütőtök"
+  },
+  {
+    "name": "pea",
+    "description": "",
+    "category": "good",
+    "translated-hu": "borsó"
+  },
+  {
+    "name": "lettuce",
+    "description": "",
+    "category": "good",
+    "translated-hu": "saláta"
+  },
+  {
+    "name": "cucumber",
+    "description": "",
+    "category": "good",
+    "translated-hu": "uborka"
+  },
+  {
+    "name": "celery",
+    "description": "",
+    "category": "good",
+    "translated-hu": "zeller"
+  },
+  {
+    "name": "celeries",
+    "description": "",
+    "category": "good",
+    "translated-hu": "celeries"
+  },
+  {
+    "name": "carrot",
+    "description": "",
+    "category": "good",
+    "translated-hu": "sárgarépa"
+  },
+  {
+    "name": "brussels sprouts",
+    "description": "",
+    "category": "good",
+    "translated-hu": "kelbimbó"
+  },
+  {
+    "name": "brussel sprouts",
+    "description": "",
+    "category": "good",
+    "translated-hu": "kelbimbó"
+  },
+  {
+    "name": "brussels",
+    "description": "",
+    "category": "good",
+    "translated-hu": "brüsszeli"
+  },
+  {
+    "name": "green bell pepper",
+    "description": "",
+    "category": "good",
+    "translated-hu": "zöldpaprika"
+  },
+  {
+    "name": "orange bell pepper",
+    "description": "",
+    "category": "good",
+    "translated-hu": "narancssárga paprika"
+  },
+  {
+    "name": "red bell pepper",
+    "description": "",
+    "category": "good",
+    "translated-hu": "piros paprika"
+  },
+  {
+    "name": "bell pepper",
+    "description": "",
+    "category": "good",
+    "translated-hu": "paprika"
+  },
+  {
+    "name": "asparagus",
+    "description": "",
+    "category": "good",
+    "translated-hu": "spárga"
+  },
+  {
+    "name": "cabbage",
+    "description": "",
+    "category": "good",
+    "translated-hu": "káposzta"
+  },
+  {
+    "name": "cauliflower",
+    "description": "",
+    "category": "good",
+    "translated-hu": "karfiol"
+  },
+  {
+    "name": "broccoli",
+    "description": "",
+    "category": "good",
+    "translated-hu": "brokkoli"
+  },
+  {
+    "name": "corn",
+    "description": "",
+    "category": "good",
+    "translated-hu": "kukorica"
+  },
+  {
+    "name": "watermelon",
+    "description": "",
+    "category": "good",
+    "translated-hu": "görögdinnye"
+  },
+  {
+    "name": "pineapple",
+    "description": "",
+    "category": "good",
+    "translated-hu": "ananász"
+  },
+  {
+    "name": "pear",
+    "description": "",
+    "category": "good",
+    "translated-hu": "körte"
+  },
+  {
+    "name": "orange",
+    "description": "",
+    "category": "good",
+    "translated-hu": "narancs"
+  },
+  {
+    "name": "mango",
+    "description": "",
+    "category": "good",
+    "translated-hu": "mangó"
+  },
+  {
+    "name": "mangoes",
+    "description": "",
+    "category": "good",
+    "translated-hu": "mangó"
+  },
+  {
+    "name": "cranberry",
+    "description": "",
+    "category": "good",
+    "translated-hu": "áfonya"
+  },
+  {
+    "name": "cranberries",
+    "description": "",
+    "category": "good",
+    "translated-hu": "áfonya"
+  },
+  {
+    "name": "cantaloupe",
+    "description": "",
+    "category": "good",
+    "translated-hu": "sárgadinnye"
+  },
+  {
+    "name": "blueberry",
+    "description": "",
+    "category": "good",
+    "translated-hu": "áfonya"
+  },
+  {
+    "name": "blueberries",
+    "description": "",
+    "category": "good",
+    "translated-hu": "áfonya"
+  },
+  {
+    "name": "banana",
+    "description": "",
+    "category": "good",
+    "translated-hu": "banán"
+  },
+  {
+    "name": "apricot",
+    "description": "",
+    "category": "good",
+    "translated-hu": "sárgabarack"
+  },
+  {
+    "name": "apple",
+    "description": "",
+    "category": "good",
+    "translated-hu": "alma"
+  },
+  {
+    "name": "strawberry",
+    "description": "Tip: Strawberries are a healthy snack or topper for dogs and contain Vitamin C, antioxidants, and fiber. They are high in sugar, so let your pup enjoy this sweet berry in moderation.",
+    "category": "moderate",
+    "translated-hu": "eper"
+  },
+  {
+    "name": "strawberries",
+    "description": "Tip: Strawberries are a healthy snack or topper for dogs and contain Vitamin C, antioxidants, and fiber. They are high in sugar, so let your pup enjoy this sweet berry in moderation.",
+    "category": "moderate",
+    "translated-hu": "eper"
+  },
+  {
+    "name": "spinach",
+    "description": "Tip: spinach is good for dogs in moderation. If your puppy or dog has a kidney disease or sensitivity, you should avoid spinach in their diet as it is high in oxalic acid.",
+    "category": "moderate",
+    "translated-hu": "spenót"
+  },
+  {
+    "name": "baby spinach",
+    "description": "Tip: spinach is good for dogs in moderation. If your puppy or dog has a kidney disease or sensitivity, you should avoid spinach in their diet as it is high in oxalic acid.",
+    "category": "moderate",
+    "translated-hu": "bébispenót"
+  },
+  {
+    "name": "canned spinach",
+    "description": "Tip: spinach is good for dogs in moderation. If your puppy or dog has a kidney disease or sensitivity, you should avoid spinach in their diet as it is high in oxalic acid.",
+    "category": "moderate",
+    "translated-hu": "spenótkonzerv"
+  },
+  {
+    "name": "spinach leaves",
+    "description": "Tip: spinach is good for dogs in moderation. If your puppy or dog has a kidney disease or sensitivity, you should avoid spinach in their diet as it is high in oxalic acid.",
+    "category": "moderate",
+    "translated-hu": "spenótlevelek"
+  },
+  {
+    "name": "green bean",
+    "description": "Tip: green beans are good in moderation. This vegetable can be given to dogs raw, steamed, chopped, or canned (but be careful of sodium content). They can be used as treats, toppers, and are especially helpful for dogs needing to fill full while on a calorie-restricted diet.",
+    "category": "moderate",
+    "translated-hu": "zöldbab"
+  },
+  {
+    "name": "greenbeans",
+    "description": "Tip: green beans are good in moderation. This vegetable can be given to dogs raw, steamed, chopped, or canned (but be careful of sodium content). They can be used as treats, toppers, and are especially helpful for dogs needing to fill full while on a calorie-restricted diet.",
+    "category": "moderate",
+    "translated-hu": "zöldbab"
+  },
+  {
+    "name": "brew",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "főzze"
+  },
+  {
+    "name": "cold one",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "hideg"
+  },
+  {
+    "name": "cooked shrimp",
+    "description": "",
+    "category": "moderate",
+    "translated-hu": "főtt garnélarák"
+  },
+  {
+    "name": "chives",
+    "description": "",
+    "category": "harmful",
+    "translated-hu": "metélőhagyma"
+  },
+  {
+    "name": "candy",
+    "description": "Some candies contain xylitol which is very dangerous for dogs. If your dog ate food that contains xylitol, contact the Pet Poison Help Line (petpoisonhelpline.com)or your vet immediately.",
+    "category": "harmful",
+    "translated-hu": "cukorka"
+  },
+  {
+    "name": "candies",
+    "description": "Some candies contain xylitol which is very dangerous for dogs. If your dog ate food that contains xylitol, contact the Pet Poison Help Line (petpoisonhelpline.com)or your vet immediately.",
+    "category": "harmful",
+    "translated-hu": "cukorkák"
+  },
+  {
+    "name": "candy's",
+    "description": "Some candies contain xylitol which is very dangerous for dogs. If your dog ate food that contains xylitol, contact the Pet Poison Help Line (petpoisonhelpline.com)or your vet immediately.",
+    "category": "harmful",
+    "translated-hu": "cukorkák"
+  },
+  {
+    "name": "xylitol",
+    "description": "Xylitol is very dangerous for dogs. If your dog ate food that contains xylitol, contact the Pet Poison Help Line (petpoisonhelpline.com) or your vet immediately.",
+    "category": "harmful",
+    "translated-hu": "xilit"
+  },
+  {
+    "name": "rice",
+    "description": "Tip: brown rice is better for dogs since white rice is highly processed. Brown rice has more vitamins, minerals and fiber. You should keep the amount of grain foods like brown rice less than 30% of your dog’s diet.",
+    "category": "good",
+    "translated-hu": "rizs"
+  },
+  {
+    "name": "brown rice",
+    "description": "Tip: brown rice is better for dogs since white rice is highly processed. Brown rice has more vitamins, minerals and fiber. You should keep the amount of grain foods like brown rice less than 30% of your dog’s diet.",
+    "category": "good",
+    "translated-hu": "barna rizs"
+  },
+  {
+    "name": "grapefruit",
+    "description": "What to do if your dog ate %answer%? It’s best to call your veterinarian. Grapefruit rinds and plant parts are toxic to dogs, the flesh is acidic but not toxic.",
+    "category": "harmful",
+    "translated-hu": "grapefruit"
+  },
+  {
+    "name": "gum",
+    "description": "What to do if your dog ate %answer%? If your dog recently ingested gum with xylitol in it, contact the Pet Poison Help Line (petpoisonhelpline.com) or your vet immediately.",
+    "category": "harmful",
+    "translated-hu": "gumi"
+  },
+  {
+    "name": "chewing gum",
+    "description": "What to do if your dog ate %answer%? If your dog recently ingested gum with xylitol in it, contact the Pet Poison Help Line (petpoisonhelpline.com) or your vet immediately.",
+    "category": "harmful",
+    "translated-hu": "rágógumi"
+  },
+  {
+    "name": "orbit",
+    "description": "What to do if your dog ate %answer%? If your dog recently ingested gum with xylitol in it, contact the Pet Poison Help Line (petpoisonhelpline.com) or your vet immediately.",
+    "category": "harmful",
+    "translated-hu": "pálya"
+  },
+  {
+    "name": "alcohol",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "translated-hu": "alkohol"
+  },
+  {
+    "name": "absinthe",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "translated-hu": "abszint"
+  },
+  {
+    "name": "baileys",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "translated-hu": "baileys"
+  },
+  {
+    "name": "beer",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "translated-hu": "sör"
+  },
+  {
+    "name": "brandy",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "translated-hu": "brandy"
+  },
+  {
+    "name": "champagne",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "translated-hu": "pezsgő"
+  },
+  {
+    "name": "cider",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "translated-hu": "almabor"
+  },
+  {
+    "name": "gin",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "translated-hu": "gin"
+  },
+  {
+    "name": "jäger meister",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "translated-hu": "jäger meister"
+  },
+  {
+    "name": "liqueur",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "translated-hu": "likőr"
+  },
+  {
+    "name": "rum",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "translated-hu": "rum"
+  },
+  {
+    "name": "snaps",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "translated-hu": "snaps"
+  },
+  {
+    "name": "tequila",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "translated-hu": "tequila"
+  },
+  {
+    "name": "vodka",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "translated-hu": "vodka"
+  },
+  {
+    "name": "whiskey",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "translated-hu": "whisky"
+  },
+  {
+    "name": "wine",
+    "description": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
+    "category": "harmful",
+    "translated-hu": "bor"
+  },
+  {
+    "name": "onion",
+    "description": "What to do if your dog ate %answer%? Having a bite of something with onion isn’t likely to make your dog sick. If you think your dog ate onions in large quantities, or if your dog seems he isn’t feeling well, then call your veterinarian.",
+    "category": "harmful",
+    "translated-hu": "hagyma"
+  },
+  {
+    "name": "garlic",
+    "description": "What to do if your dog ate %answer%? Having a bite of something with onion isn’t likely to make your dog sick. If you think your dog ate onions in large quantities, or if your dog seems he isn’t feeling well, then call your veterinarian.",
+    "category": "harmful",
+    "translated-hu": "fokhagyma"
+  },
+  {
+    "name": "green onion",
+    "description": "What to do if your dog ate %answer%? Having a bite of something with onion isn’t likely to make your dog sick. If you think your dog ate onions in large quantities, or if your dog seems he isn’t feeling well, then call your veterinarian.",
+    "category": "harmful",
+    "translated-hu": "zöldhagyma"
+  },
+  {
+    "name": "shallot",
+    "description": "What to do if your dog ate %answer%? Having a bite of something with onion isn’t likely to make your dog sick. If you think your dog ate onions in large quantities, or if your dog seems he isn’t feeling well, then call your veterinarian.",
+    "category": "harmful",
+    "translated-hu": "mogyoróhagyma"
+  },
+  {
+    "name": "spring onion",
+    "description": "What to do if your dog ate %answer%? Having a bite of something with onion isn’t likely to make your dog sick. If you think your dog ate onions in large quantities, or if your dog seems he isn’t feeling well, then call your veterinarian.",
+    "category": "harmful",
+    "translated-hu": "újhagyma"
+  },
+  {
+    "name": "chocolate",
+    "description": "What to do if your dog ate %answer%? Call your veterinarian immediately and/or call a pet poison helpline for advice",
+    "category": "harmful",
+    "translated-hu": "csokoládé"
+  },
+  {
+    "name": "bittersweet chocolate",
+    "description": "What to do if your dog ate %answer%? Call your veterinarian immediately and/or call a pet poison helpline for advice",
+    "category": "harmful",
+    "translated-hu": "keserédes csokoládé"
+  },
+  {
+    "name": "dark chocolate",
+    "description": "What to do if your dog ate %answer%? Call your veterinarian immediately and/or call a pet poison helpline for advice",
+    "category": "harmful",
+    "translated-hu": "étcsokoládé"
+  },
+  {
+    "name": "milk chocolate",
+    "description": "What to do if your dog ate %answer%? Call your veterinarian immediately and/or call a pet poison helpline for advice",
+    "category": "harmful",
+    "translated-hu": "tejcsokoládé"
+  },
+  {
+    "name": "white chocolate",
+    "description": "What to do if your dog ate %answer%? Call your veterinarian immediately and/or call a pet poison helpline for advice",
+    "category": "harmful",
+    "translated-hu": "fehér csokoládé"
+  },
+  {
+    "name": "ketchup",
+    "description": "Tip: Normal ketchup is safe, but make sure to avoid those that contain xylitol. Xylitol is super dangerous for dogs. If your dog ate food that contains xylitol, contact the Pet Poison Help Line (petpoisonhelpline.com) or your vet immediately.",
+    "category": "moderate",
+    "translated-hu": "ketchup"
+  },
+  {
+    "name": "mayo",
+    "description": "Tip: Normal mayo is safe, but make sure to avoid those that contain xylitol. Xylitol is super dangerous for dogs. If your dog ate food that contains xylitol, contact the Pet Poison Help Line (petpoisonhelpline.com) or your vet immediately.",
+    "category": "moderate",
+    "translated-hu": "mayo"
+  },
+  {
+    "name": "mayonnaise",
+    "description": "Tip: Normal mayo is safe, but make sure to avoid those that contain xylitol. Xylitol is super dangerous for dogs. If your dog ate food that contains xylitol, contact the Pet Poison Help Line (petpoisonhelpline.com) or your vet immediately.",
+    "category": "moderate",
+    "translated-hu": "majonéz"
+  },
+  {
+    "name": "peanut butter",
+    "description": "Tip: Normal peanut butter is safe, but make sure to avoid those that contain xylitol or artificial sugar. Xylitol is super dangerous for dogs. If your dog ate food that contains xylitol, contact the Pet Poison Help Line (petpoisonhelpline.com) or your vet immediately.",
+    "category": "moderate",
+    "translated-hu": "mogyoróvaj"
+  },
+  {
+    "name": "tomato",
+    "description": "Tip: Steam; the leaves contain solanine, which is harmful to dogs in large quantities. Ripe tomatoes are safe but avoid giving them green tomatoes and the green parts.",
+    "category": "good",
+    "translated-hu": "paradicsom"
+  },
+  {
+    "name": "tomatoe",
+    "description": "Tip: Steam; the leaves contain solanine, which is harmful to dogs in large quantities. Ripe tomatoes are safe but avoid giving them green tomatoes and the green parts.",
+    "category": "good",
+    "translated-hu": "paradicsom"
+  },
+  {
+    "name": "fish",
+    "description": "Tip: Avoid giving fish that has small bones in it; boneless fishes such as salmon is OK, but needs to be cooked.",
+    "category": "harmful",
+    "translated-hu": "hal"
+  },
+  {
+    "name": "pizza",
+    "description": "Tip: It doesn't provide much nutrition for your dog. But the main reason it's not recommended is because pizza could contain onion or garlic which are dangerous for your dog.",
+    "category": "harmful",
+    "translated-hu": "pizza"
+  },
+  {
+    "name": "salmon",
+    "description": "Tip: Just cooked; avoid raw ones.",
+    "category": "good",
+    "translated-hu": "lazac"
+  },
+  {
+    "name": "anchovies",
+    "description": "Tip: Just cooked; avoid raw ones.",
+    "category": "good",
+    "translated-hu": "szardellák"
+  },
+  {
+    "name": "herring",
+    "description": "Tip: Just cooked; avoid raw ones.",
+    "category": "good",
+    "translated-hu": "hering"
+  },
+  {
+    "name": "mackerel",
+    "description": "Tip: Just cooked; avoid raw ones.",
+    "category": "good",
+    "translated-hu": "makréla"
+  },
+  {
+    "name": "sardines",
+    "description": "Tip: Just cooked; avoid raw ones.",
+    "category": "good",
+    "translated-hu": "szardínia"
+  },
+  {
+    "name": "shrimp",
+    "description": "Tip: Just cooked; avoid raw ones.",
+    "category": "good",
+    "translated-hu": "garnélarák"
+  },
+  {
+    "name": "smelts",
+    "description": "Tip: Just cooked; avoid raw ones.",
+    "category": "good",
+    "translated-hu": "csempék"
+  },
+  {
+    "name": "tuna",
+    "description": "Tip: Just cooked; avoid raw ones.",
+    "category": "good",
+    "translated-hu": "tonhal"
+  },
+  {
+    "name": "prawn",
+    "description": "Tip: Make sure to cook it and remove shell.",
+    "category": "moderate",
+    "translated-hu": "garnélarák"
+  },
+  {
+    "name": "walnut",
+    "description": "Tip: Fresh walnuts aren’t dangerous in small amounts, but moldy ones are.",
+    "category": "moderate",
+    "translated-hu": "dió"
+  },
+  {
+    "name": "beef jerky",
+    "description": "Tip: Avoid too spicy ones and also those with onion or garlic flavour.",
+    "category": "moderate",
+    "translated-hu": "marhahús szárított húst"
+  },
+  {
+    "name": "cereal",
+    "description": "Tip: Ocasionally, as a treat in small portions, but never substitute a full meal with cereal, since feeding your dog too often with cereal could lead to obesity and diabetes. Avoid giving your dog cereal containing chocolate or a high level of sugar.",
+    "category": "moderate",
+    "translated-hu": "gabona"
+  },
+  {
+    "name": "cottage cheese",
+    "description": "Tip: Very limited consumption; if it causes diarrhea or digestive upset, stop giving it to your dog entirely.",
+    "category": "moderate",
+    "translated-hu": "túró"
+  },
+  {
+    "name": "cheese",
+    "description": "Tip: Very limited consumption; if it causes diarrhea or digestive upset, stop giving it to your dog entirely.",
+    "category": "moderate",
+    "translated-hu": "sajt"
+  },
+  {
+    "name": "sausage",
+    "description": "Tip: Not recommended because sausages are too spicy and salty for your dog. Avoid sausages with onion or garlic flavour.",
+    "category": "harmful",
+    "translated-hu": "kolbász"
+  },
+  {
+    "name": "yogurt",
+    "description": "Tip: Only in a moderate amount. If it causes diarrhea or digestive upset, stop giving it to your dog entirely. Important: avoid sweetened ones containing xylitol. Xylitol is super dangerous for dogs. If your dog ate yogurt that contains xylitol, contact the Pet Poison Help Line (petpoisonhelpline.com) or your vet immediately.",
+    "category": "moderate",
+    "translated-hu": "joghurt"
+  },
+  {
+    "name": "sour cream",
+    "description": "Tip: Only very limited amount since most of the dogs have problems digesting lactose; any kind of food containing milk could be risky to your dog. If it causes diarrhea or digestive upset, stop giving any kind of milk product to your dog.",
+    "category": "moderate",
+    "translated-hu": "tejföl"
+  },
+  {
+    "name": "milk",
+    "description": "Tip: Only very limited amount since most of the dogs have problems digesting lactose; any kind of food containing milk could be risky to your dog. If it causes diarrhea or digestive upset, stop giving any kind of milk product to your dog.",
+    "category": "harmful",
+    "translated-hu": "tej"
+  },
+  {
+    "name": "bones",
+    "description": "Tip: It’s much safer to give your dog raw bones than cooked ones. Pork and poultry bones or cooked bones of any kind are strictly forbidden since bone shards can cause choking and serious damage to the dog’s mouth, throat, or intestines.",
+    "category": "moderate",
+    "translated-hu": "csontok"
+  }
+]
