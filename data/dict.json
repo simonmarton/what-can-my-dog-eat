@@ -34,7 +34,7 @@
     },
     {
       "en": "What to do if your dog drank %answer%? Your pet should consume zero alcohol, but if they do, booze (whiskey, vodka, gin, etc.) are the harshest and require an emergency vet visit.",
-      "hu": "Mi a teendő, ha a kutya ivott %válasz%? Háziállatodnak nulla alkoholt kellene fogyasztania, de ha mégis, akkor a szeszes italok (whisky, vodka, gin stb.) a legdurvábbak, és sürgős állatorvosi látogatást igényelnek."
+      "hu": "Mi a teendő, ha a kutya ivott %answer%? Háziállatodnak nulla alkoholt kellene fogyasztania, de ha mégis, akkor a szeszes italok (whisky, vodka, gin stb.) a legdurvábbak, és sürgős állatorvosi látogatást igényelnek."
     },
     {
       "en": "What to do if your dog ate %answer%? Having a bite of something with onion isn’t likely to make your dog sick. If you think your dog ate onions in large quantities, or if your dog seems he isn’t feeling well, then call your veterinarian.",
@@ -1118,5 +1118,19 @@
       "en": "bones",
       "hu": "csontok"
     }
-  ]
+  ],
+  "categories": {
+    "harmful": {
+      "en": "Harmful",
+      "hu": "Veszélyes"
+    },
+    "moderate": {
+      "en": "Moderate",
+      "hu": "Mértékkel"
+    },
+    "good": {
+      "en": "Good",
+      "hu": "Mehet!"
+    }
+  }
 }

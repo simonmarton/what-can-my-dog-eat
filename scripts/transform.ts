@@ -116,9 +116,14 @@ if (true) {
     descriptionDictIdx: dict.descriptions.findIndex(({ en }) => en === description),
   }));
 
-  await Deno.writeTextFile(DATA_FILE_PATH, JSON.stringify(data, null, 2), { create: true });
+  console.log('tutibiztos? dict.categories updatelve lett azota meg mi');
+  // await Deno.writeTextFile(DATA_FILE_PATH, JSON.stringify(data, null, 2), { create: true });
 }
 
-console.log('Done!');
+// "name": "blackberry",
+// "translated-hu": "szeder"
 
-// console.log(foods);
+// "name": "dates",
+// "translated-hu": "datolya"
+
+console.log('Done!');

@@ -1,5 +1,11 @@
 {
   "tasks": {
+    "start": "deno run -A --watch=static/,routes/ dev.ts",
     "transform-data": "deno run --allow-net --allow-write scripts/transform.ts"
+  },
+  "importMap": "./import_map.json",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "preact"
   }
 }
