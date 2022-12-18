@@ -1,5 +1,5 @@
 import { HandlerContext } from '$fresh/server.ts';
-import { Fzf } from 'npm:fzf@0.5.1';
+import { Fzf } from 'https://esm.sh/fzf@0.5.1';
 
 import { parseLang } from '../../utils.ts';
 import foods from '../../data/data.json' assert { type: 'json' };

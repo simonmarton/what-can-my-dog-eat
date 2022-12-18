@@ -4,8 +4,6 @@ import { useTranslate } from '../utils.ts';
 export default () => {
   const { t, lang: currentLang } = useTranslate();
 
-  console.log(location);
-
   return (
     <div
       class="bg-blue-400 dark:bg-blue-900 dark:text-blue-100 shadow-lg
@@ -22,7 +20,6 @@ export default () => {
               <a href={`/${lang}`} class="sm:text-lg underline">
                 {lang}
               </a>
-              {/* <a href={location.pathname.replace(`/${currentLang}`, `/${lang}`)}>{lang}</a> */}
             </li>
           ))}
       </ul>
