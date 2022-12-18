@@ -11,6 +11,7 @@ const fuzzyBunnies = availableLangs.reduce(
     ...dict,
     [lang]: new Fzf(foods, {
       selector: (food) => food.name[lang],
+      casing: 'case-insensitive',
     }),
   }),
   {}
