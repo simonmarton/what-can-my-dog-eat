@@ -1,5 +1,5 @@
 import { PageProps } from '$fresh/server.ts';
-import { Head, IS_BROWSER } from '$fresh/runtime.ts';
+import { Head } from '$fresh/runtime.ts';
 import { Attributes, createElement, FunctionComponent } from 'preact';
 
 import { LangCtx, parseLang } from './utils.ts';

@@ -10,8 +10,8 @@ export default {
     hu: 'Ezt biztosan megeheti Pedro? 🤔',
   },
   SEARCH: {
-    en: 'Search',
-    hu: 'Keresés',
+    en: 'Start typing..',
+    hu: 'Kezdj el írni..',
   },
 } as {
   [key: string]: {
