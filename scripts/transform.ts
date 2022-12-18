@@ -1,3 +1,5 @@
+import { config } from 'https://deno.land/x/dotenv/mod.ts';
+
 import rawFoods from '../data/raw.json' assert { type: 'json' };
 import foods from '../data/processed.json' assert { type: 'json' };
 import dict from '../data/dict.json' assert { type: 'json' };
@@ -6,7 +8,7 @@ import dict from '../data/dict.json' assert { type: 'json' };
 const PROCESSED_FILE_PATH = './data/processed.json';
 const DICT_FILE_PATH = './data/dict.json';
 const DATA_FILE_PATH = './data/data.json';
-const DEEPL_AUTH_KEY = '18529152-b37b-8040-0e7f-ad0213bbef74:fx';
+const { DEEPL_AUTH_KEY } = config();
 
 type RawFood = {
   name: string;
