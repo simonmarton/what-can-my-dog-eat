@@ -5,6 +5,12 @@ import { IS_BROWSER } from '$fresh/runtime.ts';
 import dict from './dict.ts';
 import { Lang } from './models.ts';
 
+declare global {
+  interface Window {
+    lang: Lang;
+  }
+}
+
 export const parseLang = (lang: unknown): Lang => {
   const available = ['en', 'hu'];
 
@@ -27,3 +33,5 @@ export const getTranslate =
   (lang: Lang) =>
   ([key]: TemplateStringsArray) =>
     dict[key]?.[lang] ?? `%${key}%`;
+
+export const capitalize = ([l, ...str]: string) => l.toUpperCase() + str.join('');

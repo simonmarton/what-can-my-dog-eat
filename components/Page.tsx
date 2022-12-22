@@ -6,12 +6,13 @@ import { useTranslate } from '../utils.ts';
 import Header from './Header.tsx';
 
 export default (({ children }) => {
-  const { t } = useTranslate();
+  const { t, lang } = useTranslate();
 
   return (
     <div class="bg-red-50 dark:bg-gray-900 min-h-screen">
       <Head>
         <title>{t`TITLE`}</title>
+        <link crossOrigin="use-credentials" rel="manifest" href={`/manifest.${lang}.webmanifest`} />
       </Head>
 
       <Header />

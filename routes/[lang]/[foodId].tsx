@@ -10,7 +10,7 @@ import dict from '../../data/dict.json' assert { type: 'json' };
 
 import Page from '../../components/Page.tsx';
 import { Food } from '../../models.ts';
-import { parseLang } from '../../utils.ts';
+import { capitalize, parseLang } from '../../utils.ts';
 
 import withLangProvider from '../../withLangProvider.tsx';
 
@@ -31,7 +31,7 @@ const Details = ({ params: { lang: rawLang, foodId } }: PageProps) => {
   return (
     <Page>
       <div className="flex flex-col items-center xl:items-start gap-4">
-        <h1 class="text-4xl">{name}</h1>
+        <h1 class="text-4xl">{capitalize(name)}</h1>
         <div
           class={tw('flex flex-col gap-2 rounded-lg flex-shrink text-gray-800 border(gray-800 1) p-4', {
             'bg-green-500': category === 'good',

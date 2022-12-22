@@ -1,0 +1,15 @@
+{
+  "name": "Mit ehet a kutyám?",
+  "short_name": "Pedro?",
+  "theme_color": "#eab308",
+  "background_color": "#1e3a8a",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/hu"
+}
