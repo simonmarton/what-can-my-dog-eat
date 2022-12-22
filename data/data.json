@@ -207,15 +207,6 @@
     "descriptionDictIdx": -1
   },
   {
-    "id": "chilli",
-    "category": "harmful",
-    "name": {
-      "en": "chilli",
-      "hu": "chili"
-    },
-    "descriptionDictIdx": -1
-  },
-  {
     "id": "scallion",
     "category": "harmful",
     "name": {
@@ -302,24 +293,6 @@
     "name": {
       "en": "avocado",
       "hu": "avokádó"
-    },
-    "descriptionDictIdx": -1
-  },
-  {
-    "id": "avocado's",
-    "category": "harmful",
-    "name": {
-      "en": "avocado's",
-      "hu": "avokádó"
-    },
-    "descriptionDictIdx": -1
-  },
-  {
-    "id": "avocadoe",
-    "category": "harmful",
-    "name": {
-      "en": "avocadoe",
-      "hu": "avocadoe"
     },
     "descriptionDictIdx": -1
   },
@@ -630,15 +603,6 @@
     "descriptionDictIdx": -1
   },
   {
-    "id": "cherries",
-    "category": "moderate",
-    "name": {
-      "en": "cherries",
-      "hu": "cseresznye"
-    },
-    "descriptionDictIdx": -1
-  },
-  {
     "id": "flour",
     "category": "moderate",
     "name": {
@@ -666,10 +630,10 @@
     "descriptionDictIdx": -1
   },
   {
-    "id": "almonds",
+    "id": "almond",
     "category": "moderate",
     "name": {
-      "en": "almonds",
+      "en": "almond",
       "hu": "mandula"
     },
     "descriptionDictIdx": -1
@@ -706,15 +670,6 @@
     "category": "moderate",
     "name": {
       "en": "raspberry",
-      "hu": "málna"
-    },
-    "descriptionDictIdx": -1
-  },
-  {
-    "id": "raspberries",
-    "category": "moderate",
-    "name": {
-      "en": "raspberries",
       "hu": "málna"
     },
     "descriptionDictIdx": -1
@@ -922,7 +877,7 @@
     "category": "good",
     "name": {
       "en": "beet",
-      "hu": "répa"
+      "hu": "cékla"
     },
     "descriptionDictIdx": -1
   },
@@ -949,16 +904,7 @@
     "category": "good",
     "name": {
       "en": "olive",
-      "hu": "olívaolaj"
-    },
-    "descriptionDictIdx": -1
-  },
-  {
-    "id": "roll",
-    "category": "good",
-    "name": {
-      "en": "roll",
-      "hu": "roll"
+      "hu": "olívabogyó"
     },
     "descriptionDictIdx": -1
   },
@@ -976,7 +922,7 @@
     "category": "good",
     "name": {
       "en": "bacon",
-      "hu": "bacon"
+      "hu": "szalonna"
     },
     "descriptionDictIdx": -1
   },
@@ -1049,15 +995,6 @@
     "name": {
       "en": "turkey",
       "hu": "pulyka"
-    },
-    "descriptionDictIdx": -1
-  },
-  {
-    "id": "cinamon",
-    "category": "good",
-    "name": {
-      "en": "cinamon",
-      "hu": "cinamon"
     },
     "descriptionDictIdx": -1
   },
@@ -1156,7 +1093,7 @@
     "category": "good",
     "name": {
       "en": "popcorn",
-      "hu": "popcorn"
+      "hu": "pattogatott kukorica"
     },
     "descriptionDictIdx": -1
   },
@@ -1201,15 +1138,15 @@
     "category": "good",
     "name": {
       "en": "honeydew",
-      "hu": "mézharmat"
+      "hu": "mézharmat dinnye"
     },
     "descriptionDictIdx": -1
   },
   {
-    "id": "dates",
+    "id": "date",
     "category": "good",
     "name": {
-      "en": "dates",
+      "en": "date",
       "hu": "datolya"
     },
     "descriptionDictIdx": -1
@@ -1219,7 +1156,7 @@
     "category": "good",
     "name": {
       "en": "medjool",
-      "hu": "medjool"
+      "hu": "madzshúl"
     },
     "descriptionDictIdx": -1
   },
@@ -1242,28 +1179,10 @@
     "descriptionDictIdx": -1
   },
   {
-    "id": "blackberries",
-    "category": "good",
-    "name": {
-      "en": "blackberries",
-      "hu": "szeder"
-    },
-    "descriptionDictIdx": -1
-  },
-  {
     "id": "potato",
     "category": "good",
     "name": {
       "en": "potato",
-      "hu": "burgonya"
-    },
-    "descriptionDictIdx": -1
-  },
-  {
-    "id": "potatoes",
-    "category": "good",
-    "name": {
-      "en": "potatoes",
       "hu": "burgonya"
     },
     "descriptionDictIdx": -1
@@ -1282,15 +1201,6 @@
     "category": "good",
     "name": {
       "en": "sweet potato",
-      "hu": "édesburgonya"
-    },
-    "descriptionDictIdx": -1
-  },
-  {
-    "id": "sweet-potatoes",
-    "category": "good",
-    "name": {
-      "en": "sweet potatoes",
       "hu": "édesburgonya"
     },
     "descriptionDictIdx": -1
@@ -1341,15 +1251,6 @@
     "descriptionDictIdx": -1
   },
   {
-    "id": "celeries",
-    "category": "good",
-    "name": {
-      "en": "celeries",
-      "hu": "celeries"
-    },
-    "descriptionDictIdx": -1
-  },
-  {
     "id": "carrot",
     "category": "good",
     "name": {
@@ -1364,24 +1265,6 @@
     "name": {
       "en": "brussels sprouts",
       "hu": "kelbimbó"
-    },
-    "descriptionDictIdx": -1
-  },
-  {
-    "id": "brussel-sprouts",
-    "category": "good",
-    "name": {
-      "en": "brussel sprouts",
-      "hu": "kelbimbó"
-    },
-    "descriptionDictIdx": -1
-  },
-  {
-    "id": "brussels",
-    "category": "good",
-    "name": {
-      "en": "brussels",
-      "hu": "brüsszeli"
     },
     "descriptionDictIdx": -1
   },
@@ -1512,28 +1395,10 @@
     "descriptionDictIdx": -1
   },
   {
-    "id": "mangoes",
-    "category": "good",
-    "name": {
-      "en": "mangoes",
-      "hu": "mangó"
-    },
-    "descriptionDictIdx": -1
-  },
-  {
     "id": "cranberry",
     "category": "good",
     "name": {
       "en": "cranberry",
-      "hu": "áfonya"
-    },
-    "descriptionDictIdx": -1
-  },
-  {
-    "id": "cranberries",
-    "category": "good",
-    "name": {
-      "en": "cranberries",
       "hu": "áfonya"
     },
     "descriptionDictIdx": -1
@@ -1552,15 +1417,6 @@
     "category": "good",
     "name": {
       "en": "blueberry",
-      "hu": "áfonya"
-    },
-    "descriptionDictIdx": -1
-  },
-  {
-    "id": "blueberries",
-    "category": "good",
-    "name": {
-      "en": "blueberries",
       "hu": "áfonya"
     },
     "descriptionDictIdx": -1
@@ -1597,15 +1453,6 @@
     "category": "moderate",
     "name": {
       "en": "strawberry",
-      "hu": "eper"
-    },
-    "descriptionDictIdx": -1
-  },
-  {
-    "id": "strawberries",
-    "category": "moderate",
-    "name": {
-      "en": "strawberries",
       "hu": "eper"
     },
     "descriptionDictIdx": -1
@@ -1656,33 +1503,6 @@
     "descriptionDictIdx": -1
   },
   {
-    "id": "greenbeans",
-    "category": "moderate",
-    "name": {
-      "en": "greenbeans",
-      "hu": "zöldbab"
-    },
-    "descriptionDictIdx": -1
-  },
-  {
-    "id": "brew",
-    "category": "harmful",
-    "name": {
-      "en": "brew",
-      "hu": "főzze"
-    },
-    "descriptionDictIdx": -1
-  },
-  {
-    "id": "cold-one",
-    "category": "harmful",
-    "name": {
-      "en": "cold one",
-      "hu": "hideg"
-    },
-    "descriptionDictIdx": -1
-  },
-  {
     "id": "cooked-shrimp",
     "category": "moderate",
     "name": {
@@ -1706,24 +1526,6 @@
     "name": {
       "en": "candy",
       "hu": "cukorka"
-    },
-    "descriptionDictIdx": 3
-  },
-  {
-    "id": "candies",
-    "category": "harmful",
-    "name": {
-      "en": "candies",
-      "hu": "cukorkák"
-    },
-    "descriptionDictIdx": 3
-  },
-  {
-    "id": "candy's",
-    "category": "harmful",
-    "name": {
-      "en": "candy's",
-      "hu": "cukorkák"
     },
     "descriptionDictIdx": 3
   },
@@ -1764,29 +1566,11 @@
     "descriptionDictIdx": 6
   },
   {
-    "id": "gum",
-    "category": "harmful",
-    "name": {
-      "en": "gum",
-      "hu": "gumi"
-    },
-    "descriptionDictIdx": 7
-  },
-  {
     "id": "chewing-gum",
     "category": "harmful",
     "name": {
       "en": "chewing gum",
       "hu": "rágógumi"
-    },
-    "descriptionDictIdx": 7
-  },
-  {
-    "id": "orbit",
-    "category": "harmful",
-    "name": {
-      "en": "orbit",
-      "hu": "pálya"
     },
     "descriptionDictIdx": 7
   },
@@ -2259,11 +2043,11 @@
     "descriptionDictIdx": -1
   },
   {
-    "id": "bones",
+    "id": "bone",
     "category": "moderate",
     "name": {
-      "en": "bones",
-      "hu": "csontok"
+      "en": "bone",
+      "hu": "csont"
     },
     "descriptionDictIdx": -1
   }
